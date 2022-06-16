@@ -1,0 +1,99 @@
+<main class="list-page-content">
+  <app-topnav></app-topnav>
+  <section class="list-page">
+    <article>
+      <div class="col col-lg-2">
+        <input placeholder="Hae hakusanalla" type="search" id="input-field" [(ngModel)]="term" />
+        <mat-form-field class="filter" appearance="fill">
+          <mat-label class="filter">Rajaa hakuehtoja</mat-label>
+          <mat-select [(ngModel)]="tag" [(value)]="selected">
+            <mat-option>None</mat-option>
+            <mat-option *ngFor="let tag of places[0]?.tags | keyvalue" [value]="tag.value">{{tag.value}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <!-- <input placeholder="Search" type="search" id="input-field" />
+        <select class="sort">
+          <option value="search" selected disabled hidden>Rajaa</option>
+          <option value="age"></option>
+          <option value="name"></option> -->
+        <!-- </select> -->
+      </div>
+      <app-map></app-map>
+    </article>
+    <article>
+      
+      <!-- Here starts the scrolling list using Cdk virtual scrolling -->
+      <ng-container
+        class="list-group-item list-group-item-action d-flex gap-3 py-3"
+        aria-current="true"
+      >
+        <cdk-virtual-scroll-viewport itemSize="50" class="content">
+          <mat-accordion>
+            <div [style.top]="inverseOfTranslation" class="title">
+              <h3>{{ title }}</h3>
+            </div>
+            <mat-expansion-panel class="list-item" *cdkVirtualFor="let place of places[0]?.data | filter:term | filter:tag">
+              <!-- Visible header of expasion panel -->
+                <mat-expansion-panel-header>
+                  <mat-panel-title id="distance">
+
+                    <h6>
+                      
+                      
+                      {{place.name.fi}} <br>  
+                      {{ calculateDistance(currentCoords, [place.location.lat, place.location.lon]).toFixed(2) }} km
+                    </h6>
+                    <!-- {{ calculateDistance(place.location.lat, place.location.lon) }} -->
+                  </mat-panel-title>
+                </mat-expansion-panel-header>
+              
+              <!-- expanded panel info starts here -->
+              <p>
+                <a
+                  class="mb-0"
+                  target="_blank"
+                  href="{{ place.info_url }}"
+                  onclick="window.open(this.href,'_blank');"
+                  rel="noopener noreferrer"
+                >
+                  Linkki paikan kotisivulle
+                </a>
+                </p>
+                <p>Näytä kartalla:
+                  <button  class="btn btn-outline-light" (click)="sendCoordinates(place)" style="font-size: 14px;  border: none;">
+                    <span>
+                    <fa-icon [icon]="faMapLocationDot" style="color: darkturquoise; font-size: 1.4rem;" ></fa-icon>
+                  </span>
+                  </button>
+                </p>
+
+              <p class="mb-0">{{ place.description.body }}</p>
+              <p></p>
+              <div class="company-address-info">
+                <p class="mb-0 address">Osoite:<br> {{ place.location.address.street_address }}<br>
+                {{ place.location.address.postal_code }}<br>
+                 {{ place.location.address.locality }}</p>
+                <p *ngIf="place.opening_hours.hours != null ;  else noInfo">Aukioloajat:<br>
+                Ma: {{ place.opening_hours.hours[0].opens }}  - {{ place.opening_hours.hours[0].closes }}<br>
+                Ti: {{ place.opening_hours.hours[1].opens }}  - {{ place.opening_hours.hours[1].closes }}<br>
+                Ke: {{ place.opening_hours.hours[2].opens }}  - {{ place.opening_hours.hours[2].closes }}<br>
+                To: {{ place.opening_hours.hours[3].opens }}  - {{ place.opening_hours.hours[3].closes }}<br>
+                Pe: {{ place.opening_hours.hours[4].opens }}  - {{ place.opening_hours.hours[4].closes }}<br>
+                La: {{ place.opening_hours.hours[5].opens }}  - {{ place.opening_hours.hours[5].closes }}<br>
+                Su: {{ place.opening_hours.hours[6].opens }}  - {{ place.opening_hours.hours[6].closes }}</p>
+                <ng-template #noInfo><p>Aukioloaika: Ei tietoja</p></ng-template>
+                <!-- <img src="https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-10/14657520_1627162420917017_2082522418259513419_n.jpg?h=1555b8b2&itok=hLcepjKl" alt=""> -->
+              </div>
+              <p>Tagit: </p>
+              <div class="tags" >
+                <p *ngFor="let tag of place.tags">{{ tag.name | uppercase}}</p>
+              </div>
+              <hr />
+            </mat-expansion-panel>
+          </mat-accordion>
+        </cdk-virtual-scroll-viewport>
+      </ng-container>
+    </article>
+  </section>
+</main>
+<app-footer></app-footer>

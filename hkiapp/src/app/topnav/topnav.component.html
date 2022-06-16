@@ -1,0 +1,57 @@
+  <!-- yläpalkki jossa sää, login ja kielivalinnat -->
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand, right-margin" href="#">
+        <img src="../../assets/images/Logo.png" alt="logo">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
+<!--      <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Etusivulle</a>
+          </li>
+-->
+<!--   -->          <app-weather class="nav-item, right-margin"></app-weather>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/places-list']"  [routerLinkActive]="['active']">Paikat</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/events']" [routerLinkActive]="['active']">Tapahtumat</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/activities']" [routerLinkActive]="['active']">Aktiviteetit</a>
+          </li>
+          <!-- <li class="nav-item">
+            <a href="/user" class="nav-link" *ngIf="isLoggedIn" [routerLink]="['/user']">User</a>
+          </li> -->
+        </ul>
+
+        <ul class="navbar-nav ml-auto" *ngIf="!isLoggedIn">
+          
+          <li class="nav-item">
+            <a href="/register" class="nav-link" [routerLink]="['/register']" [routerLinkActive]="['active']">Sign Up</a>
+          </li>
+          <li class="nav-item">
+            <a href="/login" class="nav-link" [routerLink]="['/login']" [routerLinkActive]="['active']">Login</a>
+          </li>
+        </ul>
+
+        <ul class="navbar-nav ml-auto" *ngIf="isLoggedIn">
+      <li class="nav-item">
+        <a href="/profile" class="nav-link" [routerLink]="['/profile']" [routerLinkActive]="['active']">{{ username }}</a>
+      </li>
+      <li class="nav-item">
+        <a href class="nav-link" (click)="logout()">LogOut</a>
+      </li>
+    </ul>
+        <!-- <button class="btn btn-outline-success" type="submit">Change language</button>
+        <button class="btn btn-outline-success" type="submit">Kirjaudu</button> -->
+<!--           <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+-->        </div>
+    </div>
+  </nav>

@@ -1,0 +1,33 @@
+<main>
+  <app-topnav></app-topnav>
+  <section class="list-page">
+    <div class="card card-container">
+      <div class="container" *ngIf="currentUser; else loggedOut">
+          <header class="jumbotron">
+            <h3>Personal information:</h3>
+            <hr>
+            <p>
+              <strong> <fa-icon [icon]="faUserCheck" style="font-size: 1.4rem;" ></fa-icon>
+               </strong> {{ currentUser.username }}
+            </p>
+          </header>
+    
+          <p>
+            <strong> <fa-icon [icon]="faEnvelope" style="font-size: 1.4rem;" ></fa-icon> </strong>
+            {{ currentUser.email }}
+          </p>
+          <!-- <p>
+            <strong>Token:</strong>
+            {{ currentUser.accessToken.substring(0, 20) }}
+    
+          </p> -->
+    
+        </div>
+    
+        <ng-template #loggedOut>
+          Please login.
+        </ng-template>
+      </div>
+  </section>
+</main>
+<app-footer></app-footer>

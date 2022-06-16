@@ -1,0 +1,24 @@
+.navbar {
+    background-color: black;
+    border-bottom: 0.5px solid rgb(154, 146, 98);
+}
+
+.btn-outline-success {
+    color: rgb(154, 146, 98);
+    border-color: rgb(154, 146, 98);
+    font-size: 1.6rem;
+}
+
+.btn-outline-success:hover {
+    background-color: aqua;
+    font-weight: bold;
+}
+
+.container-fluid a {
+    font-size: 1.6rem;
+    color: rgb(154, 146, 98);
+}
+
+.right-margin {
+    margin: 0 4vw 0 0;
+}

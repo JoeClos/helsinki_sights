@@ -1,0 +1,102 @@
+<main class="list-page-content">
+  <app-topnav></app-topnav>
+
+    <section class="list-page">
+      <article>
+        <div class="col col-lg-2">
+          <input placeholder="Hae hakusanalla" type="search" id="input-field" [(ngModel)]="term" />
+          <mat-form-field class="filter" appearance="fill">
+            <mat-label class="filter">Rajaa hakuehtoja</mat-label>
+            <mat-select [(ngModel)]="tag" [(value)]="selected">
+              <mat-option>None</mat-option>
+              <mat-option *ngFor="let tag of events[0]?.tags | keyvalue" [value]="tag.value">{{tag.value}}</mat-option>
+            </mat-select>
+          </mat-form-field>
+  
+          
+          <!-- <select class="sort">
+            <option value="search" selected disabled hidden>Search by</option>
+            <option value="age"></option>
+            <option value="name"></option>
+          </select> -->
+        </div>
+        <app-events-map></app-events-map>
+      </article>
+      <article>
+        
+  
+        <!-- Here starts the scrolling list using Cdk virtual scrolling -->
+        <ng-container
+          class="list-group-item list-group-item-action d-flex gap-3 py-3"
+          aria-current="true"
+        >
+          <cdk-virtual-scroll-viewport itemSize="50" class="content">
+            <mat-accordion>
+              <div [style.top]="inverseOfTranslation" class="title">
+                <h3>{{ title }}</h3>
+              </div>
+              <mat-expansion-panel class="list-item" *cdkVirtualFor="let event of events[0]?.data | filter:tag | filter:term;">
+                
+                  <mat-expansion-panel-header>
+                    <mat-panel-title>
+                      <h6 *ngIf="event.event_dates.starting_day == null ; else kello">{{event.name.fi}} (aloituspäivämäärä ei tiedossa)<br>{{ calculateDistance(currentCoords, [event.location.lat, event.location.lon]).toFixed(2) }} km</h6>
+                      <ng-template #kello>
+                        <h6 *ngIf="event.event_dates.jatkuva ; else normaali">{{event.name.fi}}, {{ event.event_dates.current_day | date: 'dd/MM/YYYY' }} (jatkuva)
+                          <br>{{ calculateDistance(currentCoords, [event.location.lat, event.location.lon]).toFixed(2) }} km</h6>
+                          <ng-template #normaali>
+                            <h6>{{event.name.fi}}, {{ event.event_dates.current_day | date: 'dd/MM/YYYY' }} {{ event.event_dates.current_day | date: 'HH:mm'}}
+                              <br>{{ calculateDistance(currentCoords, [event.location.lat, event.location.lon]).toFixed(2) }} km</h6>
+                          </ng-template>
+                      </ng-template>
+                    </mat-panel-title>
+                  </mat-expansion-panel-header>
+                  <p>
+                    <a
+                    class="mb-0"
+                    target="_blank"
+                    href="{{ event.info_url }}"
+                    onclick="window.open(this.href,'_blank');"
+                    rel="noopener noreferrer"
+                                    >
+                    Linkki tapahtuman kotisivulle
+                                    </a>
+                                    
+                  </p>
+                  <p>Näytä kartalla:
+                    <button  class="btn btn-outline-light" (click)="sendCoordinates(event)" style="font-size: 14px;  border: none;">
+                      <span>
+                      <fa-icon [icon]="faMapLocationDot" style="color: darkturquoise; font-size: 1.4rem;" ></fa-icon>
+                    </span>
+                    </button>
+                    </p>
+      
+                <p class="mb-0">{{ event.description.intro }}</p>
+                <p></p>
+                <p>Alkaa: {{ event.event_dates.starting_day | date: 'dd/MM/YYYY' }}, klo. {{ event.event_dates.starting_day | date: 'HH:mm'}} </p>
+                <p>Loppuu: {{ event.event_dates.ending_day | date: 'dd/MM/YYYY' }}, klo. {{ event.event_dates.ending_day | date: 'HH:mm'}} </p>
+
+                <p class="mb-0">{{ event.description.body | stripHtml }}</p>
+                
+                <p></p>
+                <p class="mb-0">Osoite: {{ event.location.address.street_address }}</p>
+                <p class="mb-0"> {{ event.location.address.postal_code }}</p>
+                <p class="mb-0"> {{ event.location.address.locality }}</p>
+                <figure class="event_image" *ngFor="let image of event.description.images">
+                  <img src="{{image.url}}" alt="">
+                  <p>&copy;{{ image.copyright_holder }} {{ image.license_type.name }}</p>
+                </figure>
+                <p>Tagit: </p>
+                <div class="tags" >
+                  <p *ngFor="let tag of event.tags">{{ tag.name | uppercase}}</p>
+                </div>
+                <hr />
+              </mat-expansion-panel>
+            </mat-accordion>
+          </cdk-virtual-scroll-viewport>
+        </ng-container>
+      </article>
+    </section>
+  </main>
+  <app-footer></app-footer>
+
+  

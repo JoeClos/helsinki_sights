@@ -1,0 +1,131 @@
+<main class="list-page-content">
+  <app-topnav></app-topnav>
+
+  <section class="list-page">
+    <article>
+      <div class="col col-lg-2">
+        <input
+          placeholder="Hae hakusanalla"
+          type="search"
+          id="input-field"
+          [(ngModel)]="term"
+        />
+
+        <mat-form-field class="filter" appearance="fill">
+          <mat-label class="filter">Rajaa hakuehtoja</mat-label>
+          <mat-select [(ngModel)]="tag" [(value)]="selected">
+            <mat-option>None</mat-option>
+            <mat-option *ngFor="let tag of activities[0]?.tags | keyvalue" [value]="tag.value">{{tag.value}}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+      </div>
+      <app-activities-map></app-activities-map>
+    </article>
+    <article>
+      <!-- Here starts the scrolling list using Cdk virtual scrolling -->
+      <ng-container
+        class="list-group-item list-group-item-action d-flex gap-3 py-3"
+        aria-current="true"
+      >
+        <cdk-virtual-scroll-viewport itemSize="50" class="content">
+          <mat-accordion>
+            <div [style.top]="inverseOfTranslation" class="title">
+              <h3>{{ title }}</h3>
+            </div>
+            <mat-expansion-panel
+              class="list-item"
+              *cdkVirtualFor="let activity of activities[0]?.data | orderByName: 'name' | filter:term | filter:tag"
+            >
+              <mat-expansion-panel-header>
+                <mat-panel-title>
+                  <h6>{{ activity.name.fi }}
+                  <br>
+                  {{ calculateDistance(currentCoords, [activity.location.lat, activity.location.lon]).toFixed(2) }} km
+                </h6>
+                </mat-panel-title>
+              </mat-expansion-panel-header>
+              <p>
+                <a
+                  class="mb-0"
+                  target="_blank"
+                  href="{{ activity.info_url }}"
+                  onclick="window.open(this.href,'_blank');"
+                  rel="noopener noreferrer"
+                >
+                  Linkki järjestäjän kotisivulle
+                </a>
+              </p>
+              <p>Näytä kartalla:
+              <button  class="btn btn-outline-light" (click)="sendCoordinates(activity)" style="font-size: 14px;  border: none;">
+                <span>
+                <fa-icon [icon]="faMapLocationDot" style="color: darkturquoise; font-size: 1.4rem;" ></fa-icon>
+              </span>
+              </button>
+              </p>
+              <p>
+                {{ activity.description.body | stripHtml }}
+              </p>
+              <p *ngIf="activity.where_when_duration.where_and_when == null; else whereWhenLocation">
+                Missä ja milloin? Ei tietoja
+              </p>
+              <ng-template #whereWhenLocation>
+                <p>Missä ja milloin? <br> {{ activity.where_when_duration.where_and_when }}</p>
+              </ng-template>
+              
+              <p>
+                Toiminnan kesto: {{ activity.where_when_duration.duration }}
+              </p>
+
+              <div class="company-address-info">
+                <p class="address"  *ngIf="activity.location.address.postal_code == null; else PostalCode">
+                  Osoite: <br />{{ activity.location.address.street_address }}
+                    <br>
+                    <fa-icon [icon]="faMinus"></fa-icon>
+                    <br>
+                    {{ activity.location.address.locality }}
+                  </p>
+                
+                <ng-template #PostalCode>
+                  <p class="address" >Osoite: <br>
+                    {{ activity.location.address.street_address }}
+                    <br>
+                    {{ activity.location.address.postal_code }}
+                    <br>
+                    {{ activity.location.address.locality }}
+                  </p>
+                  
+                </ng-template>
+
+              </div>
+              <div>
+                <figure
+                  class="figure"
+                  *ngFor="let image of activity.description.images"
+                >
+               
+                    <img
+                      class="figure-img img-fluid rounded photo-layout"
+                      src="{{ image.url }}"
+                      width="200"
+                      height="40"
+                      alt=""
+                    />
+                 
+                  <p>&copy;{{ image.license_type.name }}</p>
+                </figure>
+              </div>
+              <p>Tagit: </p>
+              <div class="tags" >
+                <p *ngFor="let tag of activity.tags">{{ tag.name | uppercase}}</p>
+              </div>
+              
+              <hr />
+            </mat-expansion-panel>
+          </mat-accordion>
+        </cdk-virtual-scroll-viewport>
+      </ng-container>
+    </article>
+  </section>
+</main>
+<app-footer></app-footer>

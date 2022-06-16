@@ -1,0 +1,3420 @@
+[
+    {
+      "id": "helmet:233804",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.889Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-30T16:00:00.000Z",
+        "ending_day": "2022-12-30T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228400",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.699Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-29T14:00:00.000Z",
+        "ending_day": "2022-12-29T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233769",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.689Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-23T16:00:00.000Z",
+        "ending_day": "2022-12-23T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228403",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-22T14:00:00.000Z",
+        "ending_day": "2022-12-22T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233794",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-16T16:00:00.000Z",
+        "ending_day": "2022-12-16T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228441",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-15T14:00:00.000Z",
+        "ending_day": "2022-12-15T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233772",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-09T16:00:00.000Z",
+        "ending_day": "2022-12-09T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228438",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-08T14:00:00.000Z",
+        "ending_day": "2022-12-08T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:234318",
+      "name": {
+        "fi": "Novellikoukku",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.19686508178711,
+        "lon": 24.875577926635742,
+        "address": {
+          "street_address": "Riihitie 22",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tarinoissa on taikaa!",
+        "body": "<p>Novellikoukussa nautitaan käsitöistä ja ääneen luetuista novelleista teekupin äärellä.</p><p>Voit ottaa mukaan oman käsityön tai osallistua yhteiseen hyväntekeväisyyskohteeseen.</p><p>Kokoonnumme torstaisin: 15.9., 20.10., 8.12.</p><p>Vapaa pääsy ja teetarjoilu.</p><p>Tervetuloa!</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{B966D403-874B-45FC-9C74-F70F1885D3D7}/92723",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10737",
+          "name": "HelMet"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-08T16:00:00.000Z",
+        "ending_day": "2022-12-08T17:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233770",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-02T16:00:00.000Z",
+        "ending_day": "2022-12-02T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228414",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-01T14:00:00.000Z",
+        "ending_day": "2022-12-01T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:234367",
+      "name": {
+        "fi": "Novellkafé",
+        "en": null,
+        "sv": "Novellkafé",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.19686508178711,
+        "lon": 24.875577926635742,
+        "address": {
+          "street_address": "Riihitie 22",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Novellkafé på Munksnäs bibliotek.",
+        "body": "<p>Välkommen med och njut av berättelser från fjärran och när. Biblioteket bjuder på kaffe och te med dopp.</p><p>Novellkaféssa pääset kuuntelemaan tarinoita läheltä ja kaukaa på svenska. Kirjasto tarjoaa kahvia ja teetä sekä pientä suuhunpantavaa.</p><p> <a href=\"http://www.helmet.fi/sv-FI/Bibliotek_och_tjanster/Munksnas_bibliotek/Kontaktuppgifter\"> <u>Munksnäs biblioteks kontaktuppgifter</u> </a> </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{6E8E5DDE-FC4A-43E7-9B3C-CF1E97839EB2}/92534",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10737",
+          "name": "HelMet"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-12-01T16:00:00.000Z",
+        "ending_day": "2022-12-01T17:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233787",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-25T16:00:00.000Z",
+        "ending_day": "2022-11-25T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228410",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-24T14:00:00.000Z",
+        "ending_day": "2022-11-24T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233792",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-18T16:00:00.000Z",
+        "ending_day": "2022-11-18T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228422",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-17T14:00:00.000Z",
+        "ending_day": "2022-11-17T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233785",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-11T16:00:00.000Z",
+        "ending_day": "2022-11-11T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228424",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-10T14:00:00.000Z",
+        "ending_day": "2022-11-10T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233784",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-04T16:00:00.000Z",
+        "ending_day": "2022-11-04T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228442",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-11-03T14:00:00.000Z",
+        "ending_day": "2022-11-03T17:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233474",
+      "name": {
+        "fi": "Kuvia ja muistoja - Rikhardinkadun kirjasto 140 vuotta",
+        "en": null,
+        "sv": "Bilder och minnen – Richardsgatans bibliotek 140 år",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.16633605957031,
+        "lon": 24.9467830657959,
+        "address": {
+          "street_address": "Rikhardinkatu 3",
+          "postal_code": "00130",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Rikhardinkadun kirjasto täyttää tänä vuonna 140 vuotta. Tervetuloa kierrokselle kirjastotalon historiaan!",
+        "body": "<p>Rikhardinkadun kirjasto täyttää tänä vuonna 140 vuotta. Tervetuloa kierrokselle kirjastotalon historiaan! </p><p>Ympäri kirjastoa kiertävillä näyttelypisteillä pääset tutustumaan kirjastotalon menneisiin vuosiin erilaisten ilmiöiden, kuvien ja muistojen kautta. Voit myös lisätä vieraskirjaan omat muistosi! </p><p>Voit kiertää pisteet itsenäisesti aulasta löytyvän kartan avulla (suomeksi ja ruotsiksi). </p><p>Näyttely on esillä kirjastossa 30.3. - 31.10.2022. </p><p> <strong>Opastetut kierrokset </strong>järjestetään keväällä to 31.3. klo 17.00, to 7.4. klo 14.00 ja ke 27.4. klo 14.00 (ruotsinkielinen kierros). </p><p>Ilmoittaudu mukaan opastetulle kierrokselle sähköpostitse rikhardinkadun_kirjasto@hel.fi tai soittamalla numeroon: 09 3108 5013 </p><p>Ilmoittaudu mukaan viimeistään kierrosta edeltävänä päivänä klo 20 mennessä. Kierrokselle mahtuu max. 10 henkilöä /kierros. </p><p>Kierroksilta on mahdollisuus jatkaa Deutsche Bibliothekiin, joka myös juhlii kirjastonsa 140-vuotiasta taivalta. <a href=\"https://www.deutsche-bibliothek.org/fi/kirjasto.html\">https://www.deutsche-bibliothek.org/fi/kirjasto.html</a> </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{983738E4-FBBC-466F-9D5C-DE9951E90305}/92349",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10778",
+          "name": "Exhibitions"
+        },
+        {
+          "id": "linkedevents:yso:p5121",
+          "name": "exhibitions"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-03-29T21:00:00.000Z",
+        "ending_day": "2022-10-30T22:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233779",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-28T15:00:00.000Z",
+        "ending_day": "2022-10-28T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228413",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-27T13:00:00.000Z",
+        "ending_day": "2022-10-27T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:234365",
+      "name": {
+        "fi": "Novellkafé",
+        "en": null,
+        "sv": "Novellkafé",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.19686508178711,
+        "lon": 24.875577926635742,
+        "address": {
+          "street_address": "Riihitie 22",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Novellkafé på Munksnäs bibliotek.",
+        "body": "<p>Välkommen med och njut av berättelser från fjärran och när. Biblioteket bjuder på kaffe och te med dopp.</p><p>Novellkaféssa pääset kuuntelemaan tarinoita läheltä ja kaukaa på svenska. Kirjasto tarjoaa kahvia ja teetä sekä pientä suuhunpantavaa.</p><p> <a href=\"http://www.helmet.fi/sv-FI/Bibliotek_och_tjanster/Munksnas_bibliotek/Kontaktuppgifter\"> <u>Munksnäs biblioteks kontaktuppgifter</u> </a> </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{6E8E5DDE-FC4A-43E7-9B3C-CF1E97839EB2}/92534",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10737",
+          "name": "HelMet"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-27T15:00:00.000Z",
+        "ending_day": "2022-10-27T16:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233793",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-21T15:00:00.000Z",
+        "ending_day": "2022-10-21T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228446",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-20T13:00:00.000Z",
+        "ending_day": "2022-10-20T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:234320",
+      "name": {
+        "fi": "Novellikoukku",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.19686508178711,
+        "lon": 24.875577926635742,
+        "address": {
+          "street_address": "Riihitie 22",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tarinoissa on taikaa!",
+        "body": "<p>Novellikoukussa nautitaan käsitöistä ja ääneen luetuista novelleista teekupin äärellä.</p><p>Voit ottaa mukaan oman käsityön tai osallistua yhteiseen hyväntekeväisyyskohteeseen.</p><p>Kokoonnumme torstaisin: 15.9., 20.10., 8.12.</p><p>Vapaa pääsy ja teetarjoilu.</p><p>Tervetuloa!</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{B966D403-874B-45FC-9C74-F70F1885D3D7}/92723",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10737",
+          "name": "HelMet"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-20T15:00:00.000Z",
+        "ending_day": "2022-10-20T16:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233777",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-14T15:00:00.000Z",
+        "ending_day": "2022-10-14T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228435",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-13T13:00:00.000Z",
+        "ending_day": "2022-10-13T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233799",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-07T15:00:00.000Z",
+        "ending_day": "2022-10-07T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228448",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-10-06T13:00:00.000Z",
+        "ending_day": "2022-10-06T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233798",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.690Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-30T15:00:00.000Z",
+        "ending_day": "2022-09-30T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228404",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-29T13:00:00.000Z",
+        "ending_day": "2022-09-29T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233615",
+      "name": {
+        "fi": "Digituki maahanmuuttajille / Digital support for immigrants",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.237640380859375,
+        "lon": 25.08534812927246,
+        "address": {
+          "street_address": "Ostostie 4",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Digituki maahanmuuttajille torstaisin 5.5. – 29.9.2022 klo 16 – 19.",
+        "body": "<p>Torstaisin 5.5. – 29.9.2022 klo 16 – 19.</p><p>Opastus suomeksi, englanniksi, somaliksi ja arabiaksi.</p><p>On thursdays 5.5. – 29.9.2022 from 4 to 7 pm.</p><p>Support available in Finnish, English, Somali and Arabic.</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{CD6BF035-CFD3-4E01-95C4-729AE0A0869A}/91567",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6165",
+          "name": "migrants"
+        },
+        {
+          "id": "linkedevents:helmet:10672",
+          "name": "Immigrants"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-29T13:00:00.000Z",
+        "ending_day": "2022-09-29T16:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228427",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-22T13:00:00.000Z",
+        "ending_day": "2022-09-22T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:234366",
+      "name": {
+        "fi": "Novellkafé",
+        "en": null,
+        "sv": "Novellkafé",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.19686508178711,
+        "lon": 24.875577926635742,
+        "address": {
+          "street_address": "Riihitie 22",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Novellkafé på Munksnäs bibliotek.",
+        "body": "<p>Välkommen med och njut av berättelser från fjärran och när. Biblioteket bjuder på kaffe och te med dopp.</p><p>Novellkaféssa pääset kuuntelemaan tarinoita läheltä ja kaukaa på svenska. Kirjasto tarjoaa kahvia ja teetä sekä pientä suuhunpantavaa.</p><p> <a href=\"http://www.helmet.fi/sv-FI/Bibliotek_och_tjanster/Munksnas_bibliotek/Kontaktuppgifter\"> <u>Munksnäs biblioteks kontaktuppgifter</u> </a> </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{6E8E5DDE-FC4A-43E7-9B3C-CF1E97839EB2}/92534",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10737",
+          "name": "HelMet"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-22T15:00:00.000Z",
+        "ending_day": "2022-09-22T16:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233614",
+      "name": {
+        "fi": "Digituki maahanmuuttajille / Digital support for immigrants",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.237640380859375,
+        "lon": 25.08534812927246,
+        "address": {
+          "street_address": "Ostostie 4",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Digituki maahanmuuttajille torstaisin 5.5. – 29.9.2022 klo 16 – 19.",
+        "body": "<p>Torstaisin 5.5. – 29.9.2022 klo 16 – 19.</p><p>Opastus suomeksi, englanniksi, somaliksi ja arabiaksi.</p><p>On thursdays 5.5. – 29.9.2022 from 4 to 7 pm.</p><p>Support available in Finnish, English, Somali and Arabic.</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{CD6BF035-CFD3-4E01-95C4-729AE0A0869A}/91567",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6165",
+          "name": "migrants"
+        },
+        {
+          "id": "linkedevents:helmet:10672",
+          "name": "Immigrants"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-22T13:00:00.000Z",
+        "ending_day": "2022-09-22T16:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233778",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-16T15:00:00.000Z",
+        "ending_day": "2022-09-16T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228408",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-15T13:00:00.000Z",
+        "ending_day": "2022-09-15T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:234319",
+      "name": {
+        "fi": "Novellikoukku",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.19686508178711,
+        "lon": 24.875577926635742,
+        "address": {
+          "street_address": "Riihitie 22",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tarinoissa on taikaa!",
+        "body": "<p>Novellikoukussa nautitaan käsitöistä ja ääneen luetuista novelleista teekupin äärellä.</p><p>Voit ottaa mukaan oman käsityön tai osallistua yhteiseen hyväntekeväisyyskohteeseen.</p><p>Kokoonnumme torstaisin: 15.9., 20.10., 8.12.</p><p>Vapaa pääsy ja teetarjoilu.</p><p>Tervetuloa!</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{B966D403-874B-45FC-9C74-F70F1885D3D7}/92723",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:11193",
+          "name": "Literature"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10737",
+          "name": "HelMet"
+        },
+        {
+          "id": "linkedevents:yso:p8113",
+          "name": "literature"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-15T15:00:00.000Z",
+        "ending_day": "2022-09-15T16:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233613",
+      "name": {
+        "fi": "Digituki maahanmuuttajille / Digital support for immigrants",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.237640380859375,
+        "lon": 25.08534812927246,
+        "address": {
+          "street_address": "Ostostie 4",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Digituki maahanmuuttajille torstaisin 5.5. – 29.9.2022 klo 16 – 19.",
+        "body": "<p>Torstaisin 5.5. – 29.9.2022 klo 16 – 19.</p><p>Opastus suomeksi, englanniksi, somaliksi ja arabiaksi.</p><p>On thursdays 5.5. – 29.9.2022 from 4 to 7 pm.</p><p>Support available in Finnish, English, Somali and Arabic.</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{CD6BF035-CFD3-4E01-95C4-729AE0A0869A}/91567",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6165",
+          "name": "migrants"
+        },
+        {
+          "id": "linkedevents:helmet:10672",
+          "name": "Immigrants"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-15T13:00:00.000Z",
+        "ending_day": "2022-09-15T16:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233805",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-09T15:00:00.000Z",
+        "ending_day": "2022-09-09T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228439",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-08T13:00:00.000Z",
+        "ending_day": "2022-09-08T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233612",
+      "name": {
+        "fi": "Digituki maahanmuuttajille / Digital support for immigrants",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.237640380859375,
+        "lon": 25.08534812927246,
+        "address": {
+          "street_address": "Ostostie 4",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Digituki maahanmuuttajille torstaisin 5.5. – 29.9.2022 klo 16 – 19.",
+        "body": "<p>Torstaisin 5.5. – 29.9.2022 klo 16 – 19.</p><p>Opastus suomeksi, englanniksi, somaliksi ja arabiaksi.</p><p>On thursdays 5.5. – 29.9.2022 from 4 to 7 pm.</p><p>Support available in Finnish, English, Somali and Arabic.</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{CD6BF035-CFD3-4E01-95C4-729AE0A0869A}/91567",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6165",
+          "name": "migrants"
+        },
+        {
+          "id": "linkedevents:helmet:10672",
+          "name": "Immigrants"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-08T13:00:00.000Z",
+        "ending_day": "2022-09-08T16:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:226889",
+      "name": {
+        "fi": "Lakipaja : Maksutonta lakineuvontaa",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.17808532714844,
+        "lon": 24.804645538330078,
+        "address": {
+          "street_address": "Espoon kulttuurikeskus, Kulttuuriaukio 2",
+          "postal_code": "02100",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Maksutonta lakineuvontaa perheoikeudellisiin kysymyksiin",
+        "body": "<p> <strong> Huom. huhtikuun 4.4. Lakipaja poikkeuksellisesti klo 18-20. </strong> </p><p>Luvansaanut oikeudenkäyntiavustaja OTM <strong>Sami Suomalainen</strong> LEXEL Lakiasiaintoimistosta pitää maksutonta lakipajaa asiakkaille. Hän antaa lakineuvontaa perheoikeudellisiin kysymyksiin.</p><p>Lakipajan ajatuksena on auttaa mahdollisimman monia eteenpäin, joten annetut neuvot eivät ole välttämättä lopullisia vaan alustavia. Tavoitteena on, että jokainen lakipajaan osallistunut tietää lähtiessään, mitä hänen tulee tehdä seuraavaksi pulmansa ratkaisuksi.</p><p>Sinun ei tarvitse tietää tarkkaan kaikkea eikä pulmasi tarvitse olla vielä jäsentynyt. Lakipaja voi auttaa pulman jäsentämisessä juridisiksi kysymyksiksi.</p><p>Mikäli haluat konkreettisia neuvoja, niin varaa mukaasi kaikki asiaan liittyvät tiedot kuten esimerkiksi elatusasiassa molempien vanhempien nettotulot, sosiaalietuudet, asumiskustannukset, muut elinkustannukset, lapsen erityiset kustannukset, jne.</p><p>Jokaiselle on varattu aikaa maksimissaan 15 minuuttia. Yksityisyyden turvaamiseksi tilaan otetaan vain yksi henkilö tai pariskunta kerrallaan.</p><p>Lakipaja jatkuu keväällä aina kuukauden ensimmäisenä maanantaina samaan aikaan.</p><p> <strong>Varaa aika yksityiseen 15 minuutin neuvontatilaisuuteen: </strong> <a href=\"https://lexellaw.fi/lakipajan-varauskalenteri/\"> <strong>lexellaw.fi/varaus</strong> </a> </p><p>Lisätietoja: <strong><a href=\"https://lexellaw.fi/yleinen/lakipaja-perheoikeudellisiin-kysymyksiin/\">Lakipaja perheoikeudellisiin kysymyksiin</a></strong></p><p>Yhteistyössä:</p><p> <a href=\"https://lexellaw.fi/\"> </a> </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{F1EA46E0-6675-489A-8195-5CB5E47A4C28}/89461",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-05T12:00:00.000Z",
+        "ending_day": "2022-09-05T14:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233802",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-02T15:00:00.000Z",
+        "ending_day": "2022-09-02T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228406",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-01T13:00:00.000Z",
+        "ending_day": "2022-09-01T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233611",
+      "name": {
+        "fi": "Digituki maahanmuuttajille / Digital support for immigrants",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.237640380859375,
+        "lon": 25.08534812927246,
+        "address": {
+          "street_address": "Ostostie 4",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Digituki maahanmuuttajille torstaisin 5.5. – 29.9.2022 klo 16 – 19.",
+        "body": "<p>Torstaisin 5.5. – 29.9.2022 klo 16 – 19.</p><p>Opastus suomeksi, englanniksi, somaliksi ja arabiaksi.</p><p>On thursdays 5.5. – 29.9.2022 from 4 to 7 pm.</p><p>Support available in Finnish, English, Somali and Arabic.</p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{CD6BF035-CFD3-4E01-95C4-729AE0A0869A}/91567",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6165",
+          "name": "migrants"
+        },
+        {
+          "id": "linkedevents:helmet:10672",
+          "name": "Immigrants"
+        },
+        {
+          "id": "linkedevents:helmet:10689",
+          "name": "Helsinki"
+        },
+        {
+          "id": "linkedevents:helmet:11689",
+          "name": "Other events"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-09-01T13:00:00.000Z",
+        "ending_day": "2022-09-01T16:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:233775",
+      "name": {
+        "fi": "Sellon kirjaston lasten perjantaileffa",
+        "en": "Friday movie for children in Sello Library",
+        "sv": "Sello bibliotekekts barnes fredagsfilm",
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Tule nauttimaan perjantaileffasta!",
+        "body": "<h3>Perjantaisin klo 18</h3><p>Tervetuloa viettämään perjantaita yhteisen elokuvahetken merkeissä! Sellon kirjaston Jaminurkassa järjestetään joka perjantai klo 18:00 avoin elokuvanäytös lapsille, perheille ja lapsenmielisille. Elokuvat valitaan yhdessä lasten toiveista kirjastossa. Tule esittämään oma elokuvatoiveesi kirjaston henkilökunnalle ja tutustumaan elokuvanäytösten aikatauluun Sellon kirjaston lastenosastolla!</p><p>Elokuvat ovat kaikki ikäsuositukseltaan S tai K7. Esityskielenä on suomi. Tekstitys valitaan lasten toiveiden mukaan. </p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{7B97672D-46A1-46F8-BC66-7CF2AAEA2D3C}/92303",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:helmet:10595",
+          "name": "Children and families"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:yso:p4354",
+          "name": "children (age groups)"
+        },
+        {
+          "id": "linkedevents:helmet:12005",
+          "name": "Kids"
+        },
+        {
+          "id": "linkedevents:yso:p13050",
+          "name": "families with children"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-08-26T15:00:00.000Z",
+        "ending_day": "2022-08-26T16:45:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helmet:228434",
+      "name": {
+        "fi": "Lautapelikerho",
+        "en": "Board Game Club",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": null,
+      "modified_at": "2022-04-12T08:32:01.691Z",
+      "location": {
+        "lat": 60.21747970581055,
+        "lon": 24.809919357299805,
+        "address": {
+          "street_address": "Leppävaarankatu 9",
+          "postal_code": "02600",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": "Lautapeliseuran lautapelikerho kokoontuu torstaisin ympäri vuoden",
+        "body": "<h3>Torstaisin klo 16-19.45 Akseli-salissa</h3><p> <strong> Kevään lautapelikerhojen aloitusajankohta on koronarajoitusten vuoksi siirretty alkamaan helmikuussa. </strong> </p><p>Lautapeliseuran järjestämä aikuisille suunnattu pelikerho.</p><p> <br> Lisätietoja ja poikkeusaikoja ja -paikkoja: <strong><a href=\"http://www.lautapeliseura.fi/foorumi/\">foorumi</a> </strong><br><br> Pelitietoa <a href=\"http://www.lautapeliseura.fi\">http://www.lautapeliseura.fi</a> <a href=\"https://www.facebook.com/pages/Suomen-lautapeliseura/164470176919869\">Facebookissa</a></p><p>Tervetuloa!<br><br> * * * <br><br> Lautapelikerho jatkuu torstaisin ympäri vuoden. Poikkeuksena sellaiset juhlapyhät, jolloin kirjasto on suljettuna. Jos kirjasto suljetaan klo 18, niin lautapelikerho on klo 17.45 asti.</p><p>Kuva <a href=\"https://unsplash.com/@introspectivedsgn\">Erik Mclean</a></p>",
+        "images": [
+          {
+            "url": "https://www.helmet.fi/download/noname/{BEFEF0D1-0268-4938-8B30-4A52D0E09590}/82643",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p6062",
+          "name": "games"
+        },
+        {
+          "id": "linkedevents:helmet:10690",
+          "name": "Espoo"
+        },
+        {
+          "id": "linkedevents:helmet:11687",
+          "name": "Games"
+        },
+        {
+          "id": "linkedevents:helmet:10592",
+          "name": "General"
+        },
+        {
+          "id": "linkedevents:helmet:1",
+          "name": "Events"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2022-08-25T13:00:00.000Z",
+        "ending_day": "2022-08-25T16:45:00.000Z",
+        "additional_description": null
+      }
+    }
+]

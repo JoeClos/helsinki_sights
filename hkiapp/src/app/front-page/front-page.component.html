@@ -1,0 +1,44 @@
+<body>
+  <app-topnav></app-topnav>
+<!-- TEKSTIKAPPALE JA TAUSTAKUVA -->
+  <main class="container">
+<!-- introteksti -->
+    <section class="container rounded helsinki-img">
+      <div class="introduction-text rounded">
+        <h1>Kaupunki odottaa!</h1>
+        <h2>Tältä sivustolta löydät tuhansia pääkaupunkiseudun paikkoja, tapahtumia ja aktiviteettejä. Hakutoimintojen avulla voit etsiä juuri sinua kiinnostavia teemoja. Klikkaa allaolevia nappeja ja lähde seikkailuun. Tiedot päivittyvät jatkuvasti, joten saat aina ajantasaista tietoa.</h2>
+        <p></p>
+
+<!--  TALOKUVA-ATTRIBUUTIOTEKSTI:
+        Photo by <a href="https://unsplash.com/@tap5a?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tapio Haaja</a> on <a href="https://unsplash.com/s/photos/helsinki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ -->      
+
+</div>
+    </section>
+      <!-- Tästä alkaa napit lista-sivuille -->
+  <div class="container">
+    <div class="list-links">
+      <!--           KUVA 1 - PAIKAT     ../../assets/images/frontpage_places@2x.jpg     -->
+      <div class="col-lg-4 round-img">
+      <!--         <img class="bd-placeholder-img" src="" alt="Helsingin paikat" style="height:200px">  
+       -->        <!-- <h2>Heading</h2> -->
+              <h1><a class="btn btn-secondary" routerLink="{{'/places-list/'}}">Paikat</a></h1>
+      </div><!-- /.col-lg-4 -->
+      <!--           KUVA 2 - TAPAHTUMAT   ../../assets/images/frontpage_events@2x.jpg    -->
+      <div class="col-lg-4 round-img">
+      <!--           <img class="bd-placeholder-img" src="" alt="Helsingin tapahtumat" style="height:200px">  
+       -->        <!-- <h2>Heading</h2> -->
+              <h1><a class="btn btn-secondary" routerLink="{{'/events'}}">Tapahtumat</a></h1>
+      </div><!-- /.col-lg-4 -->
+      <!--           KUVA 3 - AKTIVITEETIT   ../../assets/images/frontpage_activities@2x.jpg     -->
+      <div class="col-lg-4 round-img">
+      <!--         <img class="bd-placeholder-img " src="" alt="Helsingin tapahtumat" style="height:200px"> 
+       -->        <!-- <h2>Heading</h2> -->
+              <h1><a class="btn btn-secondary" routerLink="{{'/activities'}}">Aktiviteetit</a></h1>
+      </div><!-- /.col-lg-4 -->
+      </div>
+      </div>
+
+  </main>
+  <app-footer></app-footer>
+</body>

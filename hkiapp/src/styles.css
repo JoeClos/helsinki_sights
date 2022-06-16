@@ -1,0 +1,127 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+ */
+ 
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+
+body {
+    background-image: url("./assets/images/Helsinki_Länsiterminaali_unsplash.jpg");
+    background-size: 100%;
+    background-repeat: repeat-y;
+    font-family: 'Updock', cursive;
+}
+
+main {
+    margin-top: 4rem;
+    /* margin-bottom: 7.5rem; */
+}
+
+h1 { font-size: 5rem; }
+
+h6 { font-size: 0.8rem; }
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    word-break: break-word;
+    /* font-size: 1.2rem; */
+}
+
+a {
+    text-decoration: none;
+    color: rgb(154, 146, 98);
+}
+
+a:hover {
+    color: darkturquoise;
+    font-weight: bold;
+}
+
+.mat-expansion-panel-header-title {
+    margin: 1rem 0 1rem 0;
+}
+
+input {
+    padding-left: 0.6rem;
+}
+
+input, mat-form-field {
+    margin: 0.5rem 0;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: black;
+}
+
+.title {
+    text-align: center;
+    position: sticky; 
+    top: 0;
+    background-color: black; 
+    padding: 1rem;
+    /* opacity: 0.5; */
+    border: 1px solid #9A9262; 
+    z-index: 1;
+}
+  
+.mat-form-field-appearance-fill {
+    background-color: rgba(154, 146, 98, 0.082);
+}
+
+.mat-form-field-wrapper {
+    padding-bottom: 0;
+}
+
+.mat-form-field-label {
+    color:rgb(154, 146, 98);
+}
+.mat-form-field.mat-focused .mat-form-field-label {
+    color:rgb(154, 146, 98);
+}
+
+.mat-select-arrow {
+    color:rgb(154, 146, 98);
+}
+
+.mat-form-field.mat-focused.mat-primary .mat-select-arrow {
+    color:rgb(154, 146, 98);
+}
+
+.mat-form-field-appearance-fill .mat-form-field-underline::before {
+    background-color:rgb(154, 146, 98);    
+}
+
+.mat-form-field-appearance-fill .mat-form-field-underline {
+    background-color:rgb(154, 146, 98);    
+}
+
+.mat-form-field-underline {
+    bottom: 0;
+    background-color:rgb(154, 146, 98);
+}
+.mat-form-field.mat-focused .mat-form-field-ripple {
+    background-color:rgb(154, 146, 98);
+}
+
+.mat-select-panel {
+    background-color: rgba(0, 0, 0, 0.715);
+}
+.mat-option-text {
+    color: rgb(154, 146, 98);
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-size: cover;
+    }
+  }
+
+@media only screen and (min-width: 426px) {
+    .mat-form-field-appearance-fill {
+        background-color: rgba(0, 0, 0, 0.715);
+    }
+}

@@ -7,7 +7,7 @@ import { Observable, Subject } from 'rxjs';
   providedIn: 'root'
 })
 export class PlacesService {
-  private apiUrl = 'http://localhost:8080'; 
+  private apiUrl = 'https://hki-springboot.herokuapp.com'; 
 
   private subject = new Subject<any>();
 

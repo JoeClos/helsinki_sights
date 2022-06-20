@@ -2,12 +2,14 @@ import { Injectable } from '@angular/core';
 import { PlacesListComponent } from './places-list/places-list.component';
 import { HttpClient } from "@angular/common/http";
 import { Observable, Subject } from 'rxjs';
+import { environment } from 'src/environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class PlacesService {
-  private apiUrl = 'https://hki-springboot.herokuapp.com'; 
+  // private apiUrl = 'https://hki-springboot.herokuapp.com'; 
+  private apiUrl = environment.baseUrl;
 
   private subject = new Subject<any>();
 

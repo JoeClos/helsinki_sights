@@ -5,15 +5,15 @@
 //     }
 //     next();
 // }
-const express = require('express');
-const path = require('path');
-const app = express();
-app.use(requireHTTPS);
+// const express = require('express');
+// const path = require('path');
+// const app = express();
+// app.use(requireHTTPS);
 
-app.use(express.static('./dist/hkiapp'));
+// app.use(express.static('./dist/hkiapp'));
 
-app.get('/*', (req, res) => 
-    res.sendFile('index.html', {root: 'dist/hkiapp/'}),
-);
+// app.get('/*', (req, res) => 
+//     res.sendFile('index.html', {root: 'dist/hkiapp/'}),
+// );
 
-  app.listen(process.env.PORT || 8080);
+//   app.listen(process.env.PORT || 8080);

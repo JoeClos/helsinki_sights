@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  baseUrl: "https://hki-springboot.herokuapp.com"
+  // baseUrl: "https://hki-springboot.herokuapp.com"
+  baseUrl: "http://localhost:8080/"
 };
 
 /*

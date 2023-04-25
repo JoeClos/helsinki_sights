@@ -9,7 +9,7 @@ import { environment } from 'src/environments/environment';
 })
 export class PlacesService {
   // private apiUrl = 'https://hki-springboot.herokuapp.com'; 
-  private apiUrl = environment.baseUrl;
+  private apiUrl = 'http://localhost:8080';
 
   private subject = new Subject<any>();
 

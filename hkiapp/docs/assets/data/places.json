@@ -1,0 +1,5003 @@
+
+[
+  
+    {
+      "id": "653",
+      "name": {
+        "fi": "A. Tillander",
+        "en": "A. Tillander",
+        "sv": "A. Tillander",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.alexandertillander.fi/",
+      "modified_at": "2021-03-30T12:56:57.000Z",
+      "location": {
+        "lat": 60.168922424316406,
+        "lon": 24.94364356994629,
+        "address": {
+          "street_address": "Aleksanterinkatu 17",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Jalokiviseppä ja ateljee, myös koruaiheisia näyttelyitä.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-10/14657520_1627162420917017_2082522418259513419_n.jpg?h=1555b8b2&itok=hLcepjKl",
+            "copyright_holder": "A. Tillander",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "499cdef2-535b-4040-9479-66f72b9d2fa6"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:72",
+          "name": "Jewellery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "10:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3027",
+      "name": {
+        "fi": "A.H.Records",
+        "en": "A.H.Records",
+        "sv": "A.H. Records",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://ahrecords.fi/",
+      "modified_at": "2021-03-30T12:59:13.000Z",
+      "location": {
+        "lat": 60.161014556884766,
+        "lon": 24.94142723083496,
+        "address": {
+          "street_address": "Fredrikinkatu 12",
+          "postal_code": "00120",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Pieni käytettyihin vinyyleihin erikoistunut kivijalkakauppa.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-10/12645064_458627557665379_3453464369390787997_n.jpg?h=dec22bcf&itok=GPZ981oE",
+            "copyright_holder": "A.H. Records",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "de767d4a-b34e-4cf8-8eb1-744c714fd041"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:104",
+          "name": "RecordStore"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "11:00:00",
+            "closes": "15:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "2257",
+      "name": {
+        "fi": "Aallonkoti Apartment Hotel",
+        "en": "Aallonkoti Apartment Hotel",
+        "sv": "Aallonkoti Apartment Hotel",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.aallonkoti.fi",
+      "modified_at": "2020-03-26T10:51:39.000Z",
+      "location": {
+        "lat": 60.176273345947266,
+        "lon": 24.9382381439209,
+        "address": {
+          "street_address": "Alvar Aallon katu 3 B",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Kauniisti viimeistelty huoneistohotelli Aallonkoti tarjoaa ensiluokkaisia ja kodinomaisia majoitusratkaisuja ainutlaatuisella paikalla Helsingin keskustassa, upeissa näkymissä. Kaikki 18 asuntoa Aallonkodin uudessa rakennuksessa tarjoavat vierailijalle täydellisen tukikohdan niin työtehtävien suorittamiseen kuin vapaa-ajan viettoonkin.\r\n\r\nHuoneistojen koot vaihtelevat kompakteista yksiöistä kahden makuuhuoneen kattohuoneistoihin. Huoneistot ovat korkeatasoisesti kalustettuja ja kodin tarpeiden mukaan varusteltuja. Jokaisessa huoneistoissa on oma keittiö, puistomaisemat suurelta kalustetulta terasseilta, langaton internetyhteys ja laadukkaat kodinkoneet.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:1",
+          "name": "ACCOMMODATION"
+        },
+        {
+          "id": "matko1:2",
+          "name": "MEETING PLACES"
+        },
+        {
+          "id": "matko2:12",
+          "name": "Apartment"
+        },
+        {
+          "id": "matko2:a-:AliPay",
+          "name": "AliPay"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3424",
+      "name": {
+        "fi": "Aalto-yliopisto, Kauppakorkeakoulu",
+        "en": "Aalto University School of Business",
+        "sv": "Aalto-universitetet, Handelshögskolan",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.aalto.fi/fi/kauppakorkeakoulu",
+      "modified_at": "2019-03-05T13:59:21.000Z",
+      "location": {
+        "lat": 60.185977935791016,
+        "lon": 24.822364807128906,
+        "address": {
+          "street_address": "Ekonominaukio 1",
+          "postal_code": "02150",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Aalto-yliopiston Kauppakorkeakoulu kouluttaa yhteiskunnallisia vaikuttajia ja tekee kansainvälisesti korkeatasoista tutkimusta yli sadan vuoden kokemuksella. Aalto-yliopiston kauppakorkeakoulu on Suomen johtava kauppakorkeakoulu ja yksi Euroopan kärkikauppakorkeakouluista.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:226",
+          "name": "WORK & STUDY"
+        },
+        {
+          "id": "matko2:282",
+          "name": "Academy"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3281",
+      "name": {
+        "fi": "Aalto-yliopisto, Taiteiden ja suunnittelun korkeakoulu",
+        "en": "Aalto University, School of Arts, Design and Architecture",
+        "sv": "Aalto-universitetet, Högskolan för konst, design och arkitektur",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.aalto.fi/fi/taiteiden-ja-suunnittelun-korkeakoulu",
+      "modified_at": "2019-03-05T14:07:54.000Z",
+      "location": {
+        "lat": 60.18522262573242,
+        "lon": 24.825517654418945,
+        "address": {
+          "street_address": "Otaniementie 14",
+          "postal_code": "02150",
+          "locality": "Espoo",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Taiteiden ja suunnittelun korkeakoulu on Pohjoismaiden johtava korkeakoulu muotoilun, muodin, pelien, median, arkkitehtuurin, elokuvan, taidekasvatuksen ja taiteen alalla. \r\n\r\nTaiteiden ja suunnittelun korkeakoulu on osa Aalto-yliopistoa, joka on teknisten tieteiden, kauppatieteiden ja taiteiden alan monialainen tiede- ja taideyhteisö.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:226",
+          "name": "WORK & STUDY"
+        },
+        {
+          "id": "matko2:282",
+          "name": "Academy"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1227",
+      "name": {
+        "fi": "Aarikka",
+        "en": "Aarikka-shop",
+        "sv": "Aarikka-shop",
+        "zh": "阿里卡商店"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.aarikka.fi/",
+      "modified_at": "2021-03-30T13:05:58.000Z",
+      "location": {
+        "lat": 60.167911529541016,
+        "lon": 24.94797706604004,
+        "address": {
+          "street_address": "Pohjoisesplanadi 27",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Aarikka Oy on vuonna 1954 perustettu suomalainen perheyritys, jonka muotoilu tunnetaan skandinaavisen selkeistä linjoista, pyöreästä muodosta ja puusta. Aarikka valmistaa koruja ja sisustustuotteita pääsääntöisesti puusta sekä muista luonnonmateriaaleista. Jokainen niistä on oma ainutlaatuinen yksilönsä, joka on valmistettu käsityönä Suomessa. \r\n\r\n",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-07/Candle_holders_.jpg?h=bb495836&itok=lkh1O_dC",
+            "copyright_holder": "Aarikka",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "c3077b39-c19c-43de-a52e-64b7c51e3387"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-07/Helmi_tableware_L.jpg?h=0446e769&itok=RAl4y6z_",
+            "copyright_holder": "Aarikka",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "91891dd9-fe24-4c3a-8535-e27a81131771"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-07/Pakkasen_poytakoristeet_table_decorations.jpg?h=fd049a31&itok=KG0Z5oxD",
+            "copyright_holder": "Aarikka",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "fc6f5cf4-fc57-475d-a449-bc1d78261320"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko2:42",
+          "name": "Finnish"
+        },
+        {
+          "id": "matko2:a-:Curated",
+          "name": "Curated"
+        },
+        {
+          "id": "matko2:67",
+          "name": "InteriorDesign"
+        },
+        {
+          "id": "matko2:a-:AliPay",
+          "name": "AliPay"
+        },
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:23",
+          "name": "Design"
+        },
+        {
+          "id": "matko2:71",
+          "name": "Souvenirs"
+        },
+        {
+          "id": "matko2:72",
+          "name": "Jewellery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "10:00:00",
+            "closes": "16:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4029",
+      "name": {
+        "fi": "Aarrepuisto",
+        "en": "Aarrepuisto - Treasure Park",
+        "sv": "Klenodparken",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://vihreatsylit.fi/aarrepuisto/",
+      "modified_at": "2021-02-09T09:54:52.000Z",
+      "location": {
+        "lat": 60.23859786987305,
+        "lon": 25.10468292236328,
+        "address": {
+          "street_address": "Aarteenetsijäntie",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Aarrepuisto sijaitsee Vesalassa. Vuonna 1993 kunnostettu puisto sijaitsee Aarteenetsijäntien ja Aarteenetsijänkujan välissä ja pitkiltä reunoiltaan se rajoittuu 1980-luvun kerrostaloihin.\r\n\r\nLaaksomaisen puiston pohjukassa mutkitteleva Mellunkylänpuro on puiston erityispiirre. Purossa on myös viehättävä pieni koski, joka solinallaan levittää puistoon miellyttävää veden ääntä. \r\n\r\nPuistoon on istutettu 113 eri kasvilajia,ja yhteensä tuhannet kasvit, kukkasipulit mukaan lukien, ilahduttavat puistossa kulkijoita keväästä syksyyn väriloistollaan.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2020-11/myhelsinki_aarteenetsijanpuisto_0406_20200915.jpg?h=c3635fa2&itok=yhTeqMac",
+            "copyright_holder": "Helsinki Marketing / Sasa Tkalcan",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "91db17c2-459c-4c88-84c5-fc7a2f217b9c"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2020-11/myhelsinki_aarteenetsijanpuisto_0440_20200915.jpg?h=515b7b60&itok=jAjhTIJM",
+            "copyright_holder": "Helsinki Marketing / Sasa Tkalcan",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "37ea6260-e396-4dc0-90ad-bf5e9da2e7a7"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:4",
+          "name": "SIGHTS & ATTRACTIONS"
+        },
+        {
+          "id": "matko2:20",
+          "name": "Park"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4192",
+      "name": {
+        "fi": "Actors Academy Finland",
+        "en": "Actors Academy Finland",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.actorsacademy.fi/",
+      "modified_at": "2021-03-15T07:23:54.000Z",
+      "location": {
+        "lat": 60.15829849243164,
+        "lon": 24.933971405029297,
+        "address": {
+          "street_address": "Pursimiehenkatu 26 H",
+          "postal_code": "00150",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Kansainvälinen näyttelijäntyön akatemia, joka tarjoaa ainutlaatuisia näyttelijäntyön kursseja ja koulutusta huippukouluttajien vetämänä.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:226",
+          "name": "WORK & STUDY"
+        },
+        {
+          "id": "matko2:26",
+          "name": "Theatre"
+        },
+        {
+          "id": "matko2:282",
+          "name": "Academy"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3048",
+      "name": {
+        "fi": "Addis Ethiopian Kitchen",
+        "en": "Addis Ethiopian Kitchen",
+        "sv": "Addis Ethiopian Kitchen",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.addiskitchen.fi/",
+      "modified_at": "2020-08-20T10:18:05.000Z",
+      "location": {
+        "lat": 60.1943244934082,
+        "lon": 24.95623016357422,
+        "address": {
+          "street_address": "Sturenkatu 28",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Ravintola Addis tarjoilee etiopialaisia makuja Vallilassa. Tarjolla niin liha- kuin vegaaniannoksia.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-11/18582201_1304054686382343_5281764182844447292_n.jpg?h=af5d0fd7&itok=bmG_gZtF",
+            "copyright_holder": "Addis Ethiopian Kitchen",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "bb3f6544-abcb-4397-bd12-3786cf19b16c"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:117",
+          "name": "Vegetarian"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:234",
+          "name": "Vegan"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "11:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "11:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "11:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "11:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "12:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "12:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4030",
+      "name": {
+        "fi": "Adlerfelt",
+        "en": "Adlerfelt",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://adlerfelt.fi/",
+      "modified_at": "2021-10-12T07:33:59.000Z",
+      "location": {
+        "lat": 60.144596099853516,
+        "lon": 24.98642921447754,
+        "address": {
+          "street_address": "Suomenlinna B 1",
+          "postal_code": "00190",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Ihanan iloinen ja hyväntuulinen Adlerfelt sijaitsee upeassa 250 vuotta vanhassa rakennuksessa maailman kauneimmassa maailmanperintökohteessa, Suomenlinnassa.\r\n\r\nAdlerfeltissa voi nautiskella lasillisen tai herkutella pitkään. Tärkeintä on se fiilis, jolloin kaikki tuntuu olevan hyvin ja vaan hymyilyttää. Juuri sellaisten fiilisten kautta jää mieleen niitä hetkiä, joihin haluaa palata aina uudestaan ja uudestaan. Adlerfelt on happy place, jonne kaikki ovat sydämellisesti tervetulleita ikään, sukupuoleen tai alkuperään katsomatta.\r\n\r\nAdlerfeltin ruokaideologiaa ohjaava periaate on raaka-aineiden vastuulliset valinnat. Koko maailman kulinaarinen skene on pelikenttänä ja herkkuja valmistetaan kauteen, tunnelmaan ja hetkeen sopivina ruoan alkuperä kuitenkin aina tuntien. Hauskinta on se, että joka visiitillä voi olla jotain erilaista ja uutta maukasta syötävää ja näin ollen päivän annokset selviävätkin vasta paikan päällä Adlerfeltissa. Kun toimintaa ei sidota tiettyyn ruokalistaan, minimoidaan ruokahävikki.\r\n\r\nVirkistävien erilaisen juomien ansiosta ruokailusta saadaan vieläkin kauniimpi ja hauskempi hetki. Se fiilis, kun ruoka ja juoma täydentävät upeasti toinen toisiaan, on jättänyt monille tietystä paikasta ja ajasta ihanan muistijäljen. Juuri niitä iloisia happy place-hetkiä!\r\n",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2020-06/adlerfelt_traverssi_adlerfelt_c_adlerfelt_tanja_aromaki_location_only.jpg?h=e2e45255&itok=TJK9my8u",
+            "copyright_holder": "Adlerfelt / Tanja Aromäki",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "02613259-769c-4290-b460-08672cd327bd"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2021-04/adlerfelt_happy_place_of_suomenlinna_c_adlerfelt_tanja_aromaki_location_only.jpg?h=785b06e6&itok=ZOx2XjMI",
+            "copyright_holder": "Adlerfelt / Tanja Aromäki",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "22787b66-9505-44b9-a99e-5b59afa14bf0"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:191",
+          "name": "IslandRestaurant"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1098",
+      "name": {
+        "fi": "AEL Hotelli",
+        "en": "AEL Hotel",
+        "sv": "AEL Hotelli",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.taitotalo.fi/ael-hotelli",
+      "modified_at": "2020-03-26T12:01:50.000Z",
+      "location": {
+        "lat": 60.249324798583984,
+        "lon": 24.854223251342773,
+        "address": {
+          "street_address": "Jälsitie 5",
+          "postal_code": "00410",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "AEL-Hotellissa majoittuu rauhallisessa ympäristössä. AEL-Hotelli sijaitsee Taitotalon koulutustilojen välittömässä läheisyydessä Malminkartanossa, noin 10 kilometrin päässä Helsingin keskustasta.\r\n\r\nAEL Hotellissa on yhteensä 135 vuodepaikkaa. Yhden ja kahden hengen huoneiden varustukseen kuuluu suihku, hiustenkuivaaja, tv ja minijääkaappi. Soluhuoneisto on edullisempi majoitusvaihtoehto ryhmälle.\r\n\r\nAEL Hotellin huoneet ovat allergiaystävällisiä.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:1",
+          "name": "ACCOMMODATION"
+        },
+        {
+          "id": "matko2:241",
+          "name": "Hotel"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4329",
+      "name": {
+        "fi": "Ageno",
+        "en": "Ageno",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://ageno.fi",
+      "modified_at": "2021-10-29T11:59:19.000Z",
+      "location": {
+        "lat": 60.194610595703125,
+        "lon": 24.95767593383789,
+        "address": {
+          "street_address": "Sturenkatu 31",
+          "postal_code": "00550",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Ravintola Ageno on uusi nepalilainen ravintola Vallilassa. Henkilökunnan ammattitaito takaa unohtumattoman makuelämyksen. Ravintolassa on tarjolla monenlaisia herkkuja kasvis-, kana-, lammas- ja kalaruokia sekä vegaanille sopivia ruokia.",
+        "images": null
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:184",
+          "name": "Nepalese"
+        },
+        {
+          "id": "matko2:234",
+          "name": "Vegan"
+        },
+        {
+          "id": "matko2:297",
+          "name": "Lunch"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "10:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "10:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "10:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "10:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "10:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "11:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "11:30:00",
+            "closes": "22:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1096",
+      "name": {
+        "fi": "Agroksenmäen holvikellari",
+        "en": "Agros Vault",
+        "sv": "Agrosbackens Källarvalv",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://intercom.fi/juhlatila/",
+      "modified_at": "2020-04-20T06:35:01.000Z",
+      "location": {
+        "lat": 60.19257354736328,
+        "lon": 24.97538948059082,
+        "address": {
+          "street_address": "Vanha talvitie 14",
+          "postal_code": "00580",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Agroksenmäen holvikellari on 150 vuotta vanha rakennus, joka on aikoinaan toiminut oluttehtaan varastona ja tynnyrintekijän verstaana. Tämä lajissaan ainutlaatuinen, viisi metriä korkea luonnongraniitista holvattu halli on puoliksi maan alla. Holvikellari luo tunnelmalliset puitteet erilaisille yritys-, teema- ja perhejuhlille. Tila soveltuu hyvin myös näyttely- ja minimessukäyttöön. \r\n\r\nHolvikellarilla on tammikuussa 2010 otettu käyttöön noin 80m2 lisätilaa, joka mahdollistaa monenlaisten koulutus-, kokous- ja seminaaritilaisuuksien järjestämisen.",
+        "images": null
+      },
+      "tags": [
+        {
+          "id": "matko1:2",
+          "name": "MEETING PLACES"
+        },
+        {
+          "id": "matko1:3",
+          "name": "BANQUET VENUES"
+        },
+        {
+          "id": "matko2:15",
+          "name": "Banquet"
+        },
+        {
+          "id": "matko2:111",
+          "name": "FreeCatering"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "883",
+      "name": {
+        "fi": "Ahola",
+        "en": "Ahola",
+        "sv": "Ahola",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.jarvenpaantaidemuseo.fi/ahola",
+      "modified_at": "2021-05-03T08:26:46.000Z",
+      "location": {
+        "lat": 60.45602798461914,
+        "lon": 25.08115005493164,
+        "address": {
+          "street_address": "Sibeliuksenväylä 57",
+          "postal_code": "04400",
+          "locality": "Järvenpää",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Ahola, joka sijaitee Järvenpäässä, on taiteilijapariskunta Juhani Ahon ja Venny Soldan-Brofeldtin entinen kotitalo Tuusulanjärven rannalla.\r\n",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:40",
+          "name": "Museum"
+        },
+        {
+          "id": "matko2:41",
+          "name": "Speciality"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Avoinna touko-syyskuussa ti-su 10-17"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3954",
+      "name": {
+        "fi": "Aikatalo Hostel",
+        "en": "Aikatalo Hostel",
+        "sv": "Aikatalo Hostel",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.aikatalohostel.fi",
+      "modified_at": "2020-01-23T08:59:47.000Z",
+      "location": {
+        "lat": 60.16950225830078,
+        "lon": 24.94510269165039,
+        "address": {
+          "street_address": "Mikonkatu 8 A, 7. krs",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Aikatalo Hostel sijaitsee aivan Helsingin keskustassa, rautatieaseman välittömässä läheisyydessä. Hostellista voi varata yksityisen huoneen. Kylpyhuone- ja wc-tilat ovat yhteiskäytössä. Hostellissa on myös yhteinen oleskelutila, jossa on televisio, tietokonepöytiä ja ruokailuryhmä. Hostellissa on ilmastointi/viilennys ja maksuton WiFi.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2020-01/aikatalo_hostel_c_aikatalo_hostel_marja_haarala_location_only.jpg?h=2bf5283a&itok=qwY79QMC",
+            "copyright_holder": "Aikatalo Hostel / Marja Haarala",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "34c9663e-fe8d-475d-8f47-cdbe42e724a0"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:1",
+          "name": "ACCOMMODATION"
+        },
+        {
+          "id": "matko2:11",
+          "name": "Hostel"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1247",
+      "name": {
+        "fi": "Aino Shop",
+        "en": "Aino Shop",
+        "sv": "Aino Shop",
+        "zh": "爱诺店"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.aino.net/",
+      "modified_at": "2021-03-30T13:43:49.000Z",
+      "location": {
+        "lat": 60.16349792480469,
+        "lon": 24.938396453857422,
+        "address": {
+          "street_address": "Fredrikinkatu 33",
+          "postal_code": "00120",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Aino Shopin asiantunteva ja palveluhenkinen henkilökunta auttaa löytämään  juuri asiakkaan tyyliin sopivat vaatekokonaisuudet tarkoin mietityistä valikoimista.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2019-10/aino_shop_fredrikinkatu_aino-takki_full_moon_zorro_aw19_c_aino_ralf_astrom_location_only.jpg?h=2a406133&itok=zzy9aUrI",
+            "copyright_holder": "Aino / Ralf Åström",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "90c91ca1-8999-4d9b-a8bd-4faa7f352084"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:23",
+          "name": "Design"
+        },
+        {
+          "id": "matko2:42",
+          "name": "Finnish"
+        },
+        {
+          "id": "matko2:180",
+          "name": "Fashion"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "10:30:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "10:30:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "10:30:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "10:30:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "10:30:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "11:00:00",
+            "closes": "16:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "219",
+      "name": {
+        "fi": "Ainola, Aino ja Jean Sibeliuksen koti-museo",
+        "en": "Ainola, Home of Jean Sibelius",
+        "sv": "Ainola, Aino och Jean Sibelius hem",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.ainola.fi/",
+      "modified_at": "2021-02-03T08:16:57.000Z",
+      "location": {
+        "lat": 60.45363998413086,
+        "lon": 25.0874080657959,
+        "address": {
+          "street_address": "Ainolankatu 1",
+          "postal_code": "04400",
+          "locality": "Järvenpää",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Järvenpäässä sijaitseva Ainola oli säveltäjämestari Jean Sibeliuksen (1865-1957) ja hänen perheensä koti yli 60 vuoden ajan. Talossa on edelleen täysin alkuperäinen sisustus ja esineistö, sekä laaja taiteilijaystävien teoksista kertynyt taidekokoelma. Ainola valmistui v. 1904. Hirsistä rakennetun huvilan suunnitteli arkkitehti Lars Sonck. Jean ja Aino Sibeliuksen hauta sijaitsee puutarhassa.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:40",
+          "name": "Museum"
+        },
+        {
+          "id": "matko2:41",
+          "name": "Speciality"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Touko-syyskuussa ti-su 10-17"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "851",
+      "name": {
+        "fi": "Airport Hotel Bonus Inn",
+        "en": "Airport Hotel Bonus Inn",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.bonusinn.fi",
+      "modified_at": "2020-03-26T12:54:07.000Z",
+      "location": {
+        "lat": 60.28882598876953,
+        "lon": 24.950197219848633,
+        "address": {
+          "street_address": "Elannontie 9",
+          "postal_code": "01510",
+          "locality": "Vantaa",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Kodikas suomalainen lentokenttähotelli Helsinki-Vantaalla.\r\n\r\nAirport Hotel Bonus Inn on yksityisessä omistuksessa oleva lentokenttähotelli, joka tarjoaa rauhallisen levähdyspaikan lentojen välillä, työpäivän päätteeksi tai ennen aikaista aamulentoa. \r\n\r\nAirport Hotel Bonus Inn on 214 huoneen hotelli. Kaikissa huoneissa on  wc ja suihku, työpöytä, HD-tasoinen LCD-televisio kansainvälisine kanavavalikoimineen sekä puhelin ja langaton internet-yhteys. \r\n\r\nHotellissa on myös kodikas ravintola KULMA, rento kohtaamispaikka, jonne voi saapua syömään yksin, yhdessä ystävien kanssa tai perheen kesken.\r\n\r\nHotelli sijaitsee vain viiden minuutin ajomatkan päässä Helsinki-Vantaan lentokentältä. Lentokenttäkuljetukset hoituvat hotellin bussilla, omalla autolla liikenteessä olevalle, majoituspalveluita käyttäville asiakkaille järjestyy myös maksuton lomaparkki.\r\n\r\nHotellissa on myös mahdollista majoittua lemmikin kanssa.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:1",
+          "name": "ACCOMMODATION"
+        },
+        {
+          "id": "matko2:149",
+          "name": "EcoCompass"
+        },
+        {
+          "id": "matko2:241",
+          "name": "Hotel"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "853",
+      "name": {
+        "fi": "Airport Hotel Pilotti",
+        "en": "Airport Hotel Pilotti",
+        "sv": "Airport Hotel Pilotti",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.airporthotelpilotti.fi",
+      "modified_at": "2020-03-30T08:34:15.000Z",
+      "location": {
+        "lat": 60.28462600708008,
+        "lon": 24.965829849243164,
+        "address": {
+          "street_address": "Veromäentie 1",
+          "postal_code": "01510",
+          "locality": "Vantaa",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Airport Hotel Pilotti on viihtyisä lentokenttähotelli Helsinki-Vantaan lentoaseman lähellä Vantaalla. Hotelli sijaitsee myös lyhyen kävelymatkan päässä Jumbon  ostoskeskuksesta ja Flamingon viihdekeskuksesta.\r\n\r\nAirport Hotel Pilotti on sekä lomalaisten että työmatkalaisten hotelli. Hotellissa on yhteensä 109 huonetta, jotka jaotellaan kahteen huoneluokkaan: kahden hengen standard-huoneisiin sekä perhehuoneisiin.\r\n\r\nHotelli tarjoaa majoittuville asiakkailleen maksuttoman pysäköinnin ja aikataulutetut lentokenttäkuljetukset.\r\n\r\nAirport Hotel Pilotti tunnetaan lemmikkiystävällisenä hotellina. Huonevalikoimassa on myös allergiahuoneita. Airport Hotel Pilotti on 100% savuton hotelli.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:1",
+          "name": "ACCOMMODATION"
+        },
+        {
+          "id": "matko2:241",
+          "name": "Hotel"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "573",
+      "name": {
+        "fi": "Akateeminen kirjakauppa",
+        "en": "Academic Bookstore",
+        "sv": "Akademiska bokhandeln",
+        "zh": "学苑书店"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.akateeminen.com/",
+      "modified_at": "2021-03-30T13:50:46.000Z",
+      "location": {
+        "lat": 60.167903900146484,
+        "lon": 24.94342803955078,
+        "address": {
+          "street_address": "Keskuskatu 1",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Akateeminen Kirjakauppa on perustettu vuonna 1893 ja on tunnettu laajasta valikoimastaan ja asiantuntevasta henkilökunnastaan. Akateeminen Kirjakauppa siirtyi ruotsalaisen Bonnier Booksin omistukseen lokakuussa 2015 ja jatkaa kirjojen ystävän omana kauppana. Akateeminen toimii Alvar Aallon suunnittelemassa liikerakennuksessa, Kirjatalossa (v.1969). Akateemisen katutasossa toimii Starbucks kahvila ja 2. kerroksessa Cafe Aalto jossa pöytiintarjoilu.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-05/akateeminen_kirjakauppa_kuva_jussi_hellsten.jpg?h=d76278b8&itok=ak2MAoJs",
+            "copyright_holder": "Jussi Hellsten",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "6d864fe0-bee1-49e3-83c8-cd64f05e058a"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko2:166",
+          "name": "AlvarAalto"
+        },
+        {
+          "id": "matko2:101",
+          "name": "BookStore"
+        },
+        {
+          "id": "matko2:224",
+          "name": "StationaryShop"
+        },
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:23",
+          "name": "Design"
+        },
+        {
+          "id": "matko2:24",
+          "name": "Architecture"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "09:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "09:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "09:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "09:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "08:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3816",
+      "name": {
+        "fi": "Akusmata Sound Art Gallery",
+        "en": "Akusmata Sound Art Gallery",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://akusmata.com",
+      "modified_at": "2020-01-22T12:30:23.000Z",
+      "location": {
+        "lat": 60.19171905517578,
+        "lon": 24.908342361450195,
+        "address": {
+          "street_address": "Tukholmankatu 7 K",
+          "postal_code": "00270",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Äänitaidegalleria Akusmata esittelee uutta ja ajankohtaista äänitaidetta.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:22",
+          "name": "Gallery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1760",
+      "name": {
+        "fi": "Akvart Galleria",
+        "en": "Akvart Galleria",
+        "sv": "Akvart Galleria",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.akvart.fi/",
+      "modified_at": "2020-01-22T12:32:41.000Z",
+      "location": {
+        "lat": 60.18505859375,
+        "lon": 24.920869827270508,
+        "address": {
+          "street_address": "Humalistonkatu 1",
+          "postal_code": "00250",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Akvart galleria perustettiin 2009 ja se on maamme ainoa yksinomaan akvarellitaiteeseen keskittynyt taidegalleria. Akvart tarjoaa näyttelytilaa akvarellitaiteilijoille ja alan harrastajille. Galleriassa näyttelyt vaihtuvat kahden viikon välein.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:22",
+          "name": "Gallery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "11:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "12:00:00",
+            "closes": "16:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "12:00:00",
+            "closes": "16:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4124",
+      "name": {
+        "fi": "Al-Mazaq Ravintola",
+        "en": "Al-Mazaq Ravintola",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.facebook.com/Al-Mazaq-Ravintola-104108961319159/",
+      "modified_at": "2020-12-02T08:39:37.000Z",
+      "location": {
+        "lat": 60.23763656616211,
+        "lon": 25.0832462310791,
+        "address": {
+          "street_address": "Ostostie 4",
+          "postal_code": "00940",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Shish-kebabia Kontulan ostarilla.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:179",
+          "name": "MiddleEast"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:231",
+          "name": "Kebab"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "09:00:00",
+            "closes": "13:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "09:00:00",
+            "closes": "17:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+
+    {
+      "id": "3834",
+      "name": {
+        "fi": "Alakulttuurikeskus Loukko",
+        "en": "Alakulttuurikeskus Loukko",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.kulttuuriloukko.fi",
+      "modified_at": "2019-09-12T08:30:43.000Z",
+      "location": {
+        "lat": 60.18479919433594,
+        "lon": 24.946674346923828,
+        "address": {
+          "street_address": "Castreninkatu 7",
+          "postal_code": "00530",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alakulttuurikeskus Loukko on Kalliossa sijaitseva, turvallisemman tilan periaatteita noudattava kohtaamispaikka, jossa pyörii ostopakoton vegaaninen kahvila, matalan kynnyksen galleria, monenlaisia työpajoja, viikoittainen feministinen Joku Ompeluseura ja erilaisia esittävän taiteen tilaisuuksia.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko2:296",
+          "name": "CultureCentre"
+        },
+        {
+          "id": "matko2:234",
+          "name": "Vegan"
+        },
+        {
+          "id": "matko2:48",
+          "name": "Cafe"
+        },
+        {
+          "id": "matko2:22",
+          "name": "Gallery"
+        },
+        {
+          "id": "matko1:225",
+          "name": "VENUES"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Pe & la avoinna tapahtumien mukaan"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4004",
+      "name": {
+        "fi": "Alanya Market",
+        "en": "Alanya Market",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://alanyamarket.fi/",
+      "modified_at": "2021-03-30T13:56:53.000Z",
+      "location": {
+        "lat": 60.2138557434082,
+        "lon": 25.08250617980957,
+        "address": {
+          "street_address": "Kastelholmantie 2",
+          "postal_code": "00900",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alanya Market on Lähi-idän tuotteisiin erikoistunut päivittäistavarakauppa Itiksen Puhoksessa.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:103",
+          "name": "Grocery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "09:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "09:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "09:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "09:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "09:00:00",
+            "closes": "20:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "09:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4157",
+      "name": {
+        "fi": "Albina Ravintola & Viinibaari",
+        "en": "Albina Restaurant & Wine Bar",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://restaurantalbina.fi/",
+      "modified_at": "2021-05-31T08:36:23.000Z",
+      "location": {
+        "lat": 60.19265365600586,
+        "lon": 24.94525146484375,
+        "address": {
+          "street_address": "Aleksis Kiven katu 23",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Ravintola Albina sijaitsee Vallilan Konepajan alueella, The Folks Hotel Konepajan kivijalassa.\r\n\r\nAlbinan keittiö vaalii eurooppalaisia perinteitä, pohjoismaista tinkimättömyyttä ja suurkaupunkien rouheutta.\r\n\r\nLautasella tarjoillaan parasta mitä luonto kulloinkin tarjoaa: läheltä ja kestävästi, käsityönä ja suurella lempeydellä valmistettuna. Lasissa lämmöllä valittuja viinejä.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2021-01/albina_ravintola_viinibaari_2_c_albina_location_only.jpg?h=5f5c2c84&itok=o5-mN3ZB",
+            "copyright_holder": "Albina Ravintola & Viinibaari",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "a8583a9b-a631-4d3b-8fbe-c7c3de3a30dd"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2021-01/albina_ravintola_viinibaari_1_c_albina_location_only.jpg?h=4874dea0&itok=vcS2bz75",
+            "copyright_holder": "Albina Ravintola & Viinibaari",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "6df0fdc1-f991-46ac-bb85-7c1f27fbc454"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:52",
+          "name": "Bar"
+        },
+        {
+          "id": "matko2:198",
+          "name": "Wine"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "17:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "17:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "17:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "17:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "15:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Aamiainen ma-pe 8-10, la 8-13, su 8-14"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "127",
+      "name": {
+        "fi": "Aleksanterin teatteri",
+        "en": "Aleksanterin teatteri",
+        "sv": "Alexandersteatern",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.aleksanterinteatteri.fi",
+      "modified_at": "2019-05-28T15:38:54.000Z",
+      "location": {
+        "lat": 60.16341018676758,
+        "lon": 24.933319091796875,
+        "address": {
+          "street_address": "Bulevardi 27",
+          "postal_code": "00180",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Venäjän keisari Aleksanteri II:n mukaan nimetty Aleksanterin teatteri tarjoaa monipuolista ohjelmaa kaikenikäisille ja -kielisille ympäri vuoden. Venäjän kenraalikuvernööri Nikolai Adlerbergin aloitteesta rakennettu upea teatteri valmistui vuonna 1879. Suomen itsenäistyttyä rakennuksessa toimi Suomen Kansallisooppera ja vuodesta 1993 Aleksanterin teatteri on toiminut vierailuteatterina. Ohjelmistossa on niin tanssia, näytelmiä, konsertteja, musikaaleja kuin oopperaakin. \r\n\r\nTeatterin venäläiset juuret näkyvät edelleen sen ohjelmistossa, jossa on paljon vierailevia venäläisiä tanssiryhmiä, näytelmiä ja konsertteja. Muun muassa Mariinski-teatterin ja Aleksanterin teatterin yhteistyö käynnistyi jo 1800-luvun lopulla ja jatkuu edelleen.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-05/aleksanterin_teatteri_1339.jpg?h=aea02586&itok=O_iZ8rNF",
+            "copyright_holder": "Sakke Somerma",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "93ca66f7-8281-4c8e-87ab-024b1f212f0f"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:3",
+          "name": "BANQUET VENUES"
+        },
+        {
+          "id": "matko2:26",
+          "name": "Theatre"
+        },
+        {
+          "id": "matko2:15",
+          "name": "Banquet"
+        },
+        {
+          "id": "matko2:24",
+          "name": "Architecture"
+        },
+        {
+          "id": "matko2:28",
+          "name": "Concert"
+        },
+        {
+          "id": "matko1:225",
+          "name": "VENUES"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1160",
+      "name": {
+        "fi": "Aleksanterinkatu",
+        "en": "Aleksanterinkatu Street",
+        "sv": "Alexandersgatan",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "",
+      "modified_at": "2008-04-09T22:00:00.000Z",
+      "location": {
+        "lat": 60.16891860961914,
+        "lon": 24.947200775146484,
+        "address": {
+          "street_address": "Aleksanterinkatu",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "",
+        "images": null
+      },
+      "tags": [],
+      "opening_hours": {
+        "hours": null,
+        "openinghours_exception": null
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "222",
+      "name": {
+        "fi": "Aleksis Kiven kuolinmökki",
+        "en": "Aleksis Kivi Memorial Cottage",
+        "sv": "Aleksis Kivis dödstuga",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.tuusula.fi/sivu.tmpl?sivu_id=1893",
+      "modified_at": "2021-05-03T09:12:16.000Z",
+      "location": {
+        "lat": 60.43402099609375,
+        "lon": 25.057619094848633,
+        "address": {
+          "street_address": "Rantatie",
+          "postal_code": "04310",
+          "locality": "Tuusula",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Merkittävä kansallinen muistomerkki, jossa kansalliskirjailijamme Aleksis Kivi (1834-1872) vietti elämänsä viimeiset kuukaudet veljensä perheen hoivissa. Aleksis Kiven kuolinmökki muistuttaa olemassaolollaan, miltä Tuusulan Rantatie näytti ennen kuuluisan huvila-asutuksen ja taiteilijayhteisön syntyä.\r\n\r\nTuusulan museo vastaa Aleksis Kiven kuolinmökin avoinnapidosta.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:40",
+          "name": "Museum"
+        },
+        {
+          "id": "matko2:41",
+          "name": "Speciality"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Avoinna 3.5.-29.8. ti-su 10-17, 1.9.-10.10. la-su 12-17, muina aikoina touko-lokakuussa sopimuksen mukaan."
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "888",
+      "name": {
+        "fi": "Aleksis Kiven syntymäkoti",
+        "en": "Birthplace and Home Museum of Aleksis Kivi",
+        "sv": "Aleksis Kivis födelsehem",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.nurmijarvi.fi/kuntalaisen-palvelut/kulttuuri-ja-vapaa-aika/museo/museot-ja-nayttelyt/aleksis-kiven-koti/",
+      "modified_at": "2021-05-03T09:13:29.000Z",
+      "location": {
+        "lat": 60.42224884033203,
+        "lon": 24.865020751953125,
+        "address": {
+          "street_address": "Palojoentie 271",
+          "postal_code": "01940",
+          "locality": "Palojoki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Kansalliskirjailija Aleksis Kiven syntymäkoti sijaitsee Nurmijärven Palojoella Seitsemän veljeksen ja Nummisuutareitten maisemissa. Tämä lapsuudenkoti pysyi Aleksis Kivelle tärkeänä myös Helsingin ja Siuntion vuosina.\r\n\r\nMuseon uudessa perusnäyttelyssä paneudutaan Aleksis Kiven elämään ja teoksiin, pohditaan Kiven persoonaan ja kirjailijan ammattiin liittyviä myyttejä ja avataan ajan yhteiskuntaa.\r\n\r\nNiiden lisäksi näyttelyssä voi katsoa Kiven elämästä kertovan \"Aleksis Kiven askelissa\" -lyhytfilmin, kuunnella Kiven tekstejä ja testata Kiven kielen tuntemusta kielipelin avulla.\r\n\r\nLapsille näyttelyssä on aiheeseen liittyviä kuvaseiniä ja pienoismalleja sekä leikittävä pienoismalli Kiven kodin pihapiiristä.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:40",
+          "name": "Museum"
+        },
+        {
+          "id": "matko2:41",
+          "name": "Speciality"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Avoinna kesä-elokuussa"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "2431",
+      "name": {
+        "fi": "Alenius Sokerileipuri",
+        "en": "Sokerileipuri Alenius cake shop & cafe",
+        "sv": "Sokerileipuri Alenius Sockerbagare",
+        "zh": "白糖糕点铺-阿莱纽斯蛋糕店和咖啡厅"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.sokerileipuri.fi/",
+      "modified_at": "2021-03-30T14:05:04.000Z",
+      "location": {
+        "lat": 60.156131744384766,
+        "lon": 24.949718475341797,
+        "address": {
+          "street_address": "Merikatu 1",
+          "postal_code": "00140",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Tunnelmallinen vanhan ajan kakkukahvila sijaitsee Helsingin eteläkärjessä. Sokerileipuri Alenius on erikoistunut täytekakkuihin ja käsintehtyihin suklaatryffeleihin, mutta tarjolla on myös pikkusuolaista ja erikoiskahveja. Salin puolella sekä ulkopöydissä voi nauttia merimaisemasta ja esim. paikan kuuluisasta banaani-suklaakakusta. Myymälästä saa tuotteita myös mukaan.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:214",
+          "name": "Bakery"
+        },
+        {
+          "id": "matko2:48",
+          "name": "Cafe"
+        },
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:158",
+          "name": "Seaside"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "09:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "09:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "09:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "09:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "09:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "09:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3563",
+      "name": {
+        "fi": "Alenka Home Food",
+        "en": "Alenka Home Food",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://alenkahomefood.fi/",
+      "modified_at": "2020-07-02T14:56:49.000Z",
+      "location": {
+        "lat": 60.184356689453125,
+        "lon": 24.948223114013672,
+        "address": {
+          "street_address": "Läntien Papinkatu 2-4, LT4",
+          "postal_code": "00530",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alenka Home Food Cafe & Bakery Kalliossa tarjoaa paikanpäällä valmistettuja venäläis- ja amerikkalaisvaikutteisia herkkuja paikan päällä nautittavaksi tai ennakkoon tilattavaksi ja noudettavaksi. Runsas valikoima kotiruokaa ja leivonnaisia kotimaisista raaka-aineista. \r\n",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:297",
+          "name": "Lunch"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:48",
+          "name": "Cafe"
+        },
+        {
+          "id": "matko2:167",
+          "name": "Breakfast"
+        },
+        {
+          "id": "matko2:198",
+          "name": "Wine"
+        },
+        {
+          "id": "matko2:168",
+          "name": "Brunch"
+        },
+        {
+          "id": "matko2:196",
+          "name": "Russian"
+        },
+        {
+          "id": "matko2:239",
+          "name": "Tea"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "10:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "10:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "10:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "10:00:00",
+            "closes": "19:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3758",
+      "name": {
+        "fi": "Alepa Kulosaari",
+        "en": "Alepa Kulosaari",
+        "sv": "Alepa Kulosaari",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.alepa.fi",
+      "modified_at": "2021-03-30T14:17:12.000Z",
+      "location": {
+        "lat": 60.186256408691406,
+        "lon": 25.008176803588867,
+        "address": {
+          "street_address": "Kyösti Kallion tie 2",
+          "postal_code": "00570",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alepa on pääkaupunkiseudulla palveleva lähikauppa, jonka löytää useimmiten ihan naapurista. Valinnanvaraa on tuotteiden lisäksi runsaasti jo Alepoissa itsessään - pääkaupunkiseudun vatsan kurinaa vaimentaa nykyään yli 100 Alepaa.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:103",
+          "name": "Grocery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "09:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "2785",
+      "name": {
+        "fi": "Alepa Ullanlinna",
+        "en": "Alepa Ullanlinna",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.alepa.fi",
+      "modified_at": "2021-03-30T14:24:25.000Z",
+      "location": {
+        "lat": 60.15938949584961,
+        "lon": 24.9455623626709,
+        "address": {
+          "street_address": "Vuorimiehenkatu 29",
+          "postal_code": "00140",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alepa on pääkaupunkiseudulla palveleva lähikauppa, jonka löytää useimmiten ihan naapurista. Valinnanvaraa on tuotteiden lisäksi runsaasti jo Alepoissa itsessään - pääkaupunkiseudun vatsan kurinaa vaimentaa nykyään yli 100 Alepaa.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:103",
+          "name": "Grocery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "06:30:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "09:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3863",
+      "name": {
+        "fi": "Alexanderplats Brasserie & Pub",
+        "en": "Alexanderplats Brasserie & Pub",
+        "sv": "Alexanderplats Brasserie & Pub",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://alexanderplats.fi",
+      "modified_at": "2020-12-29T12:28:59.000Z",
+      "location": {
+        "lat": 60.1666259765625,
+        "lon": 24.945026397705078,
+        "address": {
+          "street_address": "Eteläesplanadi 22",
+          "postal_code": "00130",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Brasserie & Pub Alexanderplats on helposti lähestyttävä laadukas ravintola Eteläesplandilla, jossa on viihtyisän baarin lisäksi runsaasti pöytiä ruokailijoille. \r\n\r\nBrasserie tarjoilee parhaista raaka-aineista valmistettuja eurooppalaisia klassikko-annoksia, jotka eivät kaipaa turhia koristeluja. Tyyli on selkeä ja elegantti. Pubissa on laaja valkoima oluita sekä runsaasti viinejä.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko2:49",
+          "name": "Pub"
+        },
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:141",
+          "name": "Bistro"
+        },
+        {
+          "id": "matko2:142",
+          "name": "SmartCasual"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "11:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "11:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "11:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "11:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "13:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "13:00:00",
+            "closes": "22:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4332",
+      "name": {
+        "fi": "Alexis",
+        "en": "Alexis",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.alexiskatollaan.fi",
+      "modified_at": "2021-11-01T08:47:24.000Z",
+      "location": {
+        "lat": 60.166629791259766,
+        "lon": 24.943510055541992,
+        "address": {
+          "street_address": "Aleksis Kiven katu 23, sisäpiha",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alexis on ravintola Albinan drinkkibaari, joka sijaitsee kattoterassilla. Sen drinkkilista on kumarrus kauden raaka-aineille ja klassikoille, joista baarimestarit loihtivat boheemilla, leikkisällä kosketuksellaan kielen vieviä uusia kokemuksia. Drinkkien lisäksi baarissa on usein vaihtuva viinilista sekä valikoima pienpanimo-oluita.",
+        "images": null
+      },
+      "tags": [
+        {
+          "id": "matko1:228",
+          "name": "BARS & NIGHTLIFE"
+        },
+        {
+          "id": "matko2:52",
+          "name": "Bar"
+        },
+        {
+          "id": "matko2:144",
+          "name": "Cocktail"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "2800",
+      "name": {
+        "fi": "Alfons' Pizza",
+        "en": "Alfons' Pizza",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.alfonspizza.fi/",
+      "modified_at": "2020-08-20T10:25:00.000Z",
+      "location": {
+        "lat": 60.1592903137207,
+        "lon": 24.94251823425293,
+        "address": {
+          "street_address": "Vuorimiehenkatu 35",
+          "postal_code": "00150",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Suosittu artesaanipizzeria Ullanlinnassa. Kuuluisa pizzojensa rapeista luomupohjista ja rennosta tunnelmasta.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-11/alfons.jpg?h=0c4f442a&itok=9iewOeN7",
+            "copyright_holder": "Alfons' Pizza",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "83882953-a0d6-4ed5-8450-29495eadf4a8"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko2:145",
+          "name": "Organic"
+        },
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:52",
+          "name": "Bar"
+        },
+        {
+          "id": "matko2:186",
+          "name": "Pizza"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "16:00:00",
+            "closes": "21:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "16:00:00",
+            "closes": "21:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "16:00:00",
+            "closes": "21:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "16:00:00",
+            "closes": "21:30:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "12:00:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "13:00:00",
+            "closes": "22:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "13:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3446",
+      "name": {
+        "fi": "Alice Italian",
+        "en": "Alice Italian",
+        "sv": "Alice Italian",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.aliceitalian.fi",
+      "modified_at": "2020-08-20T11:07:37.000Z",
+      "location": {
+        "lat": 60.19121170043945,
+        "lon": 24.949066162109375,
+        "address": {
+          "street_address": "Konepajankuja 1",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Ravintola Alice Italian tarjoilee mutkatonta italialaista ruokaa Wonderland co-workingtilan alakerrassa Vallilan Konepajan alueella.\r\n",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2018-09/alice_italian_lautasia_c_soupster_familyn_kuvapankki_soupster_family_location_only.jpg?h=a84d9d1a&itok=BIvcojOX",
+            "copyright_holder": "Soupster Family",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "a77e273c-7925-455e-89a2-50e5b24ee815"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2018-09/alice_italian_kala_c_soupster_familyn_kuvapankki_soupster_family_location_only.jpg?h=4e15f5e0&itok=kLmqSK-i",
+            "copyright_holder": "Soupster Family",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "d77e9ca3-adee-43a0-8423-562be661b657"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2018-09/alice_italian_risotto_c_soupster_familyn_kuvapankki_soupster_family_location_only.jpg?h=a36e049e&itok=m7PZ3pMZ",
+            "copyright_holder": "Soupster Family",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "06c529b8-548e-4a5b-9fea-d06531302951"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:171",
+          "name": "Italian"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:297",
+          "name": "Lunch"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "08:00:00",
+            "closes": "14:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "08:00:00",
+            "closes": "14:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "08:00:00",
+            "closes": "14:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "08:00:00",
+            "closes": "14:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "08:00:00",
+            "closes": "14:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1385",
+      "name": {
+        "fi": "ALKOVI",
+        "en": "ALKOVI",
+        "sv": "ALKOVI",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.alkovi.com",
+      "modified_at": "2020-01-22T12:33:57.000Z",
+      "location": {
+        "lat": 60.18734359741211,
+        "lon": 24.953569412231445,
+        "address": {
+          "street_address": "Helsinginkatu 19",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "ALKOVI on näyteikkunatila Kalliossa jossa esitetään nykytaidetta.\r\n\r\n",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-06/alkovi_lahde_miina_hujala.jpg?h=a5eb5da0&itok=_hOF60S-",
+            "copyright_holder": "Miina Hujala",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "e49837bc-b8c7-488d-9b13-5e03c0630d44"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:22",
+          "name": "Gallery"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": true
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4239",
+      "name": {
+        "fi": "All That Plazz",
+        "en": "All That Plazz",
+        "sv": "All That Plazz",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.allthatplazz.com",
+      "modified_at": "2021-06-07T11:09:45.000Z",
+      "location": {
+        "lat": 60.17786407470703,
+        "lon": 24.925161361694336,
+        "address": {
+          "street_address": "Töölöntorinkatu 1b",
+          "postal_code": "00260",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Pieni kivijalkaliike, joka on sekoitus levykauppaa, kirjakauppaa, kahvilaa ja taidetilaa. Ihanasti kuratoitu pieni salaisuus Töölön sydämessä.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:104",
+          "name": "RecordStore"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Avoinna noin pari kertaa kuukaudessa sekä sopimuksen mukaan\r\n"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3572",
+      "name": {
+        "fi": "Allas Restaurants",
+        "en": "Allas Restaurants",
+        "sv": "Allas Restaurants",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.allasrestaurants.fi/",
+      "modified_at": "2021-06-28T11:15:56.000Z",
+      "location": {
+        "lat": 60.167137145996094,
+        "lon": 24.95821189880371,
+        "address": {
+          "street_address": "Katajanokanlaituri 2A",
+          "postal_code": "00160",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Allas Restaurants, Allas Sea Pool merikylpylän yhteydessä, kokoaa yhteen kolme erilaista ravintolakokemusta. Allas Café & Terrace, Allas Bistro & Lounge ja Allas Sky Bar.\r\n\r\nAllas Cafe & Terrace palvelee asiakkaita aamusta iltaan ja toimii rentona ajanviettopaikkana kaupungin keskeisimmällä sijainnilla. \r\n\r\nAllas Bistro & Lounge on urbaani merinäköalaravintola Altaan toisessa kerroksessa yhdellä Helsingin upeimmista sijainneista. \r\n\r\nAllas Sky Bar tarjoaa Helsingin suurimman ja ainutlaatuisimman kohtaamispaikan sekä näköalan, josta voit nauttia aamupäivästä yön pikkutunneille saakka.\r\n\r\nAltaan ravintoloissa voi varata myös VIP-pöydän ja viettää eksklusiivisen illan oman seurueen kanssa upeissa merimaisemissa. VIP-pöytä takaa sujuvan illanvieton ja juomatarjoilun oman pöytähostin kera. Lue lisää kotisivuilta.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2021-06/allas_restaurants_ravintolassa_voi_herkutella_mm_sinisimpukoita_c_allas_restaurants_juho_tirkkonen_location_only.jpg?h=ab4b73be&itok=YNw1y2CU",
+            "copyright_holder": "Allas Restaurants / Juho Tirkkonen",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "1c169191-d6df-495a-b7ce-d0a89a909bca"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2021-06/allas_restaurants_allas_bistro_et_lounge_ravintola_ulkoterassi_c_allas_restaurants_juho_tirkkonen_location_only.jpg?h=a0f1082d&itok=fs03A0Vi",
+            "copyright_holder": "Allas Restaurants / Juho Tirkkonen",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "4fdcd00b-a6ed-4906-8087-db6d1b298030"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2021-06/allas_restaurants_allas_sky_bar_terassi_c_allas_restaurants_juho_tirkkonen_location_only.jpg?h=9e97fc23&itok=OHPEOc19",
+            "copyright_holder": "Allas Restaurants / Juho Tirkkonen",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "2e6368e0-dabd-4b72-a6d3-14580290a8d0"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko2:147",
+          "name": "ModernNordic"
+        },
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:297",
+          "name": "Lunch"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko2:44",
+          "name": "International"
+        },
+        {
+          "id": "matko2:198",
+          "name": "Wine"
+        },
+        {
+          "id": "matko2:158",
+          "name": "Seaside"
+        },
+        {
+          "id": "matko2:52",
+          "name": "Bar"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "08:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "08:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "08:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "08:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "08:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "10:00:00",
+            "closes": "23:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "10:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "2646",
+      "name": {
+        "fi": "Allas Sea Pool",
+        "en": "Allas Sea Pool",
+        "sv": "Allas Sea Pool",
+        "zh": "阿拉斯海水泳池"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://allasseapool.fi/",
+      "modified_at": "2021-09-06T08:34:31.000Z",
+      "location": {
+        "lat": 60.16706848144531,
+        "lon": 24.958147048950195,
+        "address": {
+          "street_address": "Katajanokanlaituri 2a",
+          "postal_code": "00160",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Allas Sea Pool on merikylpylä ja kaupunkikeidas Kauppatorin kupeessa. Allas tarjoaa uusia tapoja nauttia Itämerestä kaupungin keskeisimmällä paikalla. Merikylpylä on auki ympäri vuoden ja tarjoaa elämyksiä ja virkistäytymismahdollisuuksia niin kaupunkilaisille kuin matkailijoille. Altaalla on kolme saunaa, kaksi lämmitettyä makean veden allasta sekä yksi merivesiallas, jonka lämpötila mukailee meren lämpötilaa. Lisäksi Altaalta löytyy ulkokuntosali, ravintola, baari ja kahvila, ohjattua liikuntaa ja kulttuuria.",
+        "images": null
+      },
+      "tags": [
+        {
+          "id": "matko2:42",
+          "name": "Finnish"
+        },
+        {
+          "id": "matko2:240",
+          "name": "Family"
+        },
+        {
+          "id": "matko1:10",
+          "name": "RESTAURANTS & CAFES"
+        },
+        {
+          "id": "matko2:297",
+          "name": "Lunch"
+        },
+        {
+          "id": "matko2:a-:Curated",
+          "name": "Curated"
+        },
+        {
+          "id": "matko1:4",
+          "name": "SIGHTS & ATTRACTIONS"
+        },
+        {
+          "id": "matko2:229",
+          "name": "Restaurant"
+        },
+        {
+          "id": "matko1:169",
+          "name": "SAUNA & WELLNESS"
+        },
+        {
+          "id": "matko2:31",
+          "name": "Swimming"
+        },
+        {
+          "id": "matko2:218",
+          "name": "Viewpoint"
+        },
+        {
+          "id": "matko2:48",
+          "name": "Cafe"
+        },
+        {
+          "id": "matko2:253",
+          "name": "MixedSauna"
+        },
+        {
+          "id": "matko2:158",
+          "name": "Seaside"
+        },
+        {
+          "id": "matko2:165",
+          "name": "Activity"
+        },
+        {
+          "id": "matko2:32",
+          "name": "Beach"
+        },
+        {
+          "id": "matko2:33",
+          "name": "IceSwimming"
+        },
+        {
+          "id": "matko2:28",
+          "name": "Concert"
+        },
+        {
+          "id": "matko2:17",
+          "name": "Sauna"
+        },
+        {
+          "id": "matko1:5",
+          "name": "NATURE & SPORTS"
+        },
+        {
+          "id": "matko1:225",
+          "name": "VENUES"
+        },
+        {
+          "id": "matko2:206",
+          "name": "Wellness"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "06:30:00",
+            "closes": "21:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "06:30:00",
+            "closes": "21:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "06:30:00",
+            "closes": "21:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "06:30:00",
+            "closes": "21:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "06:30:00",
+            "closes": "21:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "08:00:00",
+            "closes": "21:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "09:00:00",
+            "closes": "21:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Altaat ja saunat: ma-pe 6.30-21, la 8-21, su 9-21. \r\nAllas Café & Terrace: ma-pe 8-21, la 9-23, su 10-20.\r\nAllas Bistro & Lounge: ma-la 11-23, su 11-20.\r\nAllas Sky Bar: ma-la 11-23, su 11-20."
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "273",
+      "name": {
+        "fi": "Allergiatalon kongressikeskus",
+        "en": "Allergy House",
+        "sv": "Allergiatalon kongressikeskus",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.allergia.fi/allergiatalo/",
+      "modified_at": "2020-04-20T06:38:21.000Z",
+      "location": {
+        "lat": 60.19413375854492,
+        "lon": 24.894001007080078,
+        "address": {
+          "street_address": "Paciuksenkatu 19",
+          "postal_code": "00270",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "TerveTalo-periaatteella rakennettu Allergiatalon kongressikeskus sijaitsee hyvien liikenneyhteyksien päässä Helsingin Meilahdessa. Talossa on nykyaikainen audiotorio, kaksi valoisaa neuvotteluhuonetta, kuntosali, uima-allas sekä saunaosasto ja takkakabinetti. Auditoriossa on huippulaatuiset AV-laitteet, videotykki ja Dolby Surround -äänentoistojärjestelmä. Talon tiloissa voi järjestää erilaisia juhlatilaisuuksia jopa 200 vieraalle. Katutason näyttelyaula soveltuu erinomaisesti esimerkiksi cocktailtilaisuuksiin.\r\n",
+        "images": null
+      },
+      "tags": [
+        {
+          "id": "matko1:2",
+          "name": "MEETING PLACES"
+        },
+        {
+          "id": "matko2:110",
+          "name": "Auditorium"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "4181",
+      "name": {
+        "fi": "Almost New",
+        "en": "Almost New",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.almostnew.fi/",
+      "modified_at": "2021-02-04T07:16:28.000Z",
+      "location": {
+        "lat": 60.18314743041992,
+        "lon": 24.957746505737305,
+        "address": {
+          "street_address": "Hämeentie 28",
+          "postal_code": "00530",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Almost New on rennolla tyylillä maustettu second hand-myymälä Kalliossa jonka valikoima painottuu miesten vaatteisiin ja unisex-muotiin. \r\n\r\nLiikkeessä voi ostaa sekä myydä vaatteita.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:68",
+          "name": "SecondHand"
+        },
+        {
+          "id": "matko2:180",
+          "name": "Fashion"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "11:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "20:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "10:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "12:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3859",
+      "name": {
+        "fi": "Alnilam",
+        "en": "Alnilam",
+        "sv": "Alnilam",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.alnilam.fi/",
+      "modified_at": "2021-04-22T10:01:53.000Z",
+      "location": {
+        "lat": 60.16802215576172,
+        "lon": 24.93730354309082,
+        "address": {
+          "street_address": "Yrjönkatu 32",
+          "postal_code": "00100",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Tähtitiedettä, fantasiaa, scifiä ja steampunkia - kaupungin nörtein lahjapuoti.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2019-10/alnilam_the_geekiest_giftshop_c_alnilam_anu_rainela-lankinen_location_only.jpeg?h=7d135caa&itok=q3UAdre2",
+            "copyright_holder": "Alnilam / Anu Rainela-Lankinen",
+            "license_type": {
+              "id": 2,
+              "name": "MyHelsinki license type A"
+            },
+            "media_id": "c9343e8c-486e-4bc9-bc0c-feb304c4f356"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko2:67",
+          "name": "InteriorDesign"
+        },
+        {
+          "id": "matko2:a-:JCB",
+          "name": "JCB"
+        },
+        {
+          "id": "matko2:a-:GlobalBlue",
+          "name": "GlobalBlue"
+        },
+        {
+          "id": "matko1:9",
+          "name": "SHOPPING"
+        },
+        {
+          "id": "matko2:71",
+          "name": "Souvenirs"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "11:00:00",
+            "closes": "18:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "11:00:00",
+            "closes": "15:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "3495",
+      "name": {
+        "fi": "Alppilan Huone",
+        "en": "Alppilan Huone",
+        "sv": "Alppilan Huone",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "http://www.alppilanhuone.fi/",
+      "modified_at": "2020-11-19T10:13:46.000Z",
+      "location": {
+        "lat": 60.19093322753906,
+        "lon": 24.945842742919922,
+        "address": {
+          "street_address": "Porvoonkatu 19",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alppilan Huone on kuin olohuoneen jatke; etkopaikka, jatkopaikka, levähdyspaikka ja kokoontumispaikka. Alppilan Huoneessa järjestetään myös tapahtumia ja sen seinillä on aina vaihtuva taidenäyttely.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:228",
+          "name": "BARS & NIGHTLIFE"
+        },
+        {
+          "id": "matko2:49",
+          "name": "Pub"
+        },
+        {
+          "id": "matko2:52",
+          "name": "Bar"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": "14:00:00",
+            "closes": "00:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": "14:00:00",
+            "closes": "02:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": "14:00:00",
+            "closes": "02:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": "14:00:00",
+            "closes": "02:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": "14:00:00",
+            "closes": "02:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": "14:00:00",
+            "closes": "02:00:00",
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": "14:00:00",
+            "closes": "00:00:00",
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1333",
+      "name": {
+        "fi": "Alppilan kirkko",
+        "en": "Alppila Church",
+        "sv": "Alphyddans kyrka",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.helsinginseurakunnat.fi/alppilankirkko.html.stx",
+      "modified_at": "2021-02-09T10:23:00.000Z",
+      "location": {
+        "lat": 60.19157028198242,
+        "lon": 24.941089630126953,
+        "address": {
+          "street_address": "Kotkankatu 2",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alppilan kirkko palvelee tiheästi asutettua aluetta Linnanmäen huvipuiston naapurissa. Vuonna 1957 valmistuneen rakennuksen suunnittelivat arkkitehdit Keijo Ström ja Olavi Tuomisto. Kirkon 26-äänikertaiset urut on rakentanut Kangasalan urkutehdas vuonna 1958. Niiden mekaanis-sähköpneumaattinen rakenne on Suomessa ainutlaatuinen. Kirkossa pidetään säännöllisesti myös kiinan-, viron- ja unkarinkielisiä jumalanpalveluksia.",
+        "images": []
+      },
+      "tags": [
+        {
+          "id": "matko1:4",
+          "name": "SIGHTS & ATTRACTIONS"
+        },
+        {
+          "id": "matko2:25",
+          "name": "Church"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "1367",
+      "name": {
+        "fi": "Alppipuisto",
+        "en": "Alppipuisto Park",
+        "sv": "Alpparken",
+        "zh": null
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://vihreatsylit.fi/alppipuisto/",
+      "modified_at": "2021-02-09T10:27:52.000Z",
+      "location": {
+        "lat": 60.18899154663086,
+        "lon": 24.937679290771484,
+        "address": {
+          "street_address": "Viipurinkatu-Tivolitie-Helsinginkatu",
+          "postal_code": "00510",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Linnanmäen huvipuiston ja junaradan välissä sijaitsevan Alppipuiston historia ulottuu 1800-luvulle. Alppipuisto on suosittu oleskelupuisto. Sen tunnelmantekijöitä ovat nurmikot, lammikot suihkulähteineen, pieni tanssilava, näköalaterassi, kirsikkapuut ja karu kallioluonto.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-07/Alppipuisto%20Helsinki_Kai%20Kuusisto%20VF.jpg?h=3e0a7fd1&itok=B98C554k",
+            "copyright_holder": "Kai Kuusisto",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "d1fa0c5b-8bd5-4405-8569-2c9ffa9b5176"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko1:4",
+          "name": "SIGHTS & ATTRACTIONS"
+        },
+        {
+          "id": "matko2:20",
+          "name": "Park"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": ""
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "567",
+      "name": {
+        "fi": "Alvar Aallon ateljee",
+        "en": "Studio Aalto",
+        "sv": "Studio Aalto",
+        "zh": "阿尔托工作室"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.alvaraalto.fi/kohde/alvar-aallon-ateljee/",
+      "modified_at": "2021-05-18T06:50:08.000Z",
+      "location": {
+        "lat": 60.1982307434082,
+        "lon": 24.869516372680664,
+        "address": {
+          "street_address": "Tiilimäki 20",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Alvar Aalto suunnitteli Munkkiniemen Tiilimäki 20:ssa sijaitsevan rakennuksen omaksi arkkitehtitoimistokseen 1955. \r\n\r\nVierailu Aallon ateljeessa on sukellus Aallon arkkitehtuurin, muotoilun ja henkilöhistorian maailmaan, mutta samalla myös arkkitehtoninen kokemus tilasta ja rakennuksesta. Luonnonvaloa hyödyntävä ateljee Aalto-kalusteineen on ainutlaatuinen ympäristö, jossa Aallon arkkitehtitoimisto suunnitteli useita muita tunnettuja rakennuksia. \r\n\r\nTaloon voi tutustua vain opastetulla kierroksella. Varaus etukäteen on suotavaa sillä kierroksille otetaan max.5 hlöä / kierros.\r\n",
+        "images": null
+      },
+      "tags": [
+        {
+          "id": "matko2:166",
+          "name": "AlvarAalto"
+        },
+        {
+          "id": "matko2:40",
+          "name": "Museum"
+        },
+        {
+          "id": "matko1:4",
+          "name": "SIGHTS & ATTRACTIONS"
+        },
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:24",
+          "name": "Architecture"
+        },
+        {
+          "id": "matko2:41",
+          "name": "Speciality"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Opastetut kierrokset ajalla 13.4.-30.6. ti & pe 14.30, ke-to 18.30, la-su 14.30\r\n\r\n"
+      },
+      "extra_searchwords": null
+    },
+    {
+      "id": "2319",
+      "name": {
+        "fi": "Alvar Aallon kotitalo",
+        "en": "The Aalto House",
+        "sv": "Alvar Aaltos hem",
+        "zh": "阿尔托故居"
+      },
+      "source_type": {
+        "id": 2,
+        "name": "Matko"
+      },
+      "info_url": "https://www.alvaraalto.fi/kohde/alvar-aallon-kotitalo/",
+      "modified_at": "2021-05-18T06:51:59.000Z",
+      "location": {
+        "lat": 60.196781158447266,
+        "lon": 24.876405715942383,
+        "address": {
+          "street_address": "Riihitie 20",
+          "postal_code": "00330",
+          "locality": "Helsinki",
+          "neighbourhood": null
+        }
+      },
+      "description": {
+        "intro": null,
+        "body": "Vuonna 1936 valmistunut Alvar Aallon kotitalo on arkkitehtipariskunnan itselleen suunnittelema kodikas ja intiimi työskentely- ja asuinrakennus, jossa on käytetty yksinkertaisia ja pelkistettyjä materiaaleja. \r\n\r\nTaloon voi tutustua vain opastetulla kierroksella.  Aaltojen persoonallisen kodin historia ja arkkitehtuuri avautuvat oppaan tarinoiden kautta. Kierrokselle on varattu aikaa tunti, ja se sisältää niin varsinaisen opastuksen kuin aikaa nauttia talon tunnelmasta ja tutustua museokaupan valikoimaan.\r\n\r\nTaloon voi tutustua vain opastetulla kierroksella. Varaus etukäteen on suotavaa sillä kierroksille otetaan max.5 hlöä / kierros.",
+        "images": [
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-08/av%20602.jpg?h=5b0f8b87&itok=yvRqIZOx",
+            "copyright_holder": " Maija Holma",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "a7b0e7a7-5d4e-4d3b-804b-a517ac477c8a"
+          },
+          {
+            "url": "https://edit.myhelsinki.fi/sites/default/files/styles/api_1980x1020/public/2017-08/av%203623.jpg?h=b4dcdde8&itok=MnGEoiPx",
+            "copyright_holder": "Maija Holma",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            },
+            "media_id": "ba593029-8669-4789-b4ed-edd7dced9968"
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "matko2:166",
+          "name": "AlvarAalto"
+        },
+        {
+          "id": "matko2:40",
+          "name": "Museum"
+        },
+        {
+          "id": "matko1:4",
+          "name": "SIGHTS & ATTRACTIONS"
+        },
+        {
+          "id": "matko1:6",
+          "name": "MUSEUMS & GALLERIES"
+        },
+        {
+          "id": "matko2:24",
+          "name": "Architecture"
+        },
+        {
+          "id": "matko2:41",
+          "name": "Speciality"
+        }
+      ],
+      "opening_hours": {
+        "hours": [
+          {
+            "weekday_id": 1,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 2,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 3,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 4,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 5,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 6,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          },
+          {
+            "weekday_id": 7,
+            "opens": null,
+            "closes": null,
+            "open24h": false
+          }
+        ],
+        "openinghours_exception": "Opastetut kierrokset ajalla 13.4.-30.6. ti & pe 13, ke-to 17, la-su 12 ja 13\r\n"
+      },
+      "extra_searchwords": null
+    }
+]

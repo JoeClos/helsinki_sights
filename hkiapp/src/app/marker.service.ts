@@ -13,7 +13,7 @@ export class MarkerService {
   // events: string = 'assets/data/events.json';
   // activities:string = '/assets/data/activities.json';
   // private apiUrl = 'https://hki-springboot.herokuapp.com';
-  private apiUrl = 'http://localhost:8080';
+  private apiUrl = 'https://helsinki-sights.onrender.com';
 
 
   constructor(private http: HttpClient, private popupService: PopupService) { }
